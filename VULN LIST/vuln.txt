@@ -1,0 +1,3386 @@
+ubnt:ubnt:169.239.46.55
+admin:admin:103.88.52.170
+DUP admin:1234:153.92.178.192
+DUP admin:admin:153.92.178.192
+root:root:153.92.178.192
+admin:admin:128.75.230.4
+admin:admin:31.135.184.79
+ubnt:ubnt:45.239.168.180
+admin:admin:218.23.242.122
+admin:admin:88.129.22.106
+DUP support:support:93.46.179.137
+DUP mapp:test:93.46.179.137
+DUP map:test:93.46.179.137
+DUP logger:test:93.46.179.137
+DUP sk:test:93.46.179.137
+DUP git:test:93.46.179.137
+DUP test:test:93.46.179.137
+DUP guest:guest:93.46.179.137
+DUP admin:password:93.46.179.137
+DUP ubnt:ubnt:93.46.179.137
+DUP user:user:93.46.179.137
+DUP admin:1234:93.46.179.137
+DUP admin:admin:93.46.179.137
+root:root:93.46.179.137
+admin:admin:201.183.242.159
+DUP support:support:93.146.106.161
+DUP mapp:test:93.146.106.161
+DUP map:test:93.146.106.161
+DUP logger:test:93.146.106.161
+DUP sk:test:93.146.106.161
+DUP git:test:93.146.106.161
+DUP test:test:93.146.106.161
+DUP guest:guest:93.146.106.161
+DUP admin:password:93.146.106.161
+DUP ubnt:ubnt:93.146.106.161
+DUP user:user:93.146.106.161
+DUP admin:1234:93.146.106.161
+admin:admin:93.146.106.161
+admin:admin:124.243.255.94
+admin:admin:183.203.174.102
+DUP support:support:88.57.195.251
+DUP mapp:test:88.57.195.251
+DUP map:test:88.57.195.251
+DUP logger:test:88.57.195.251
+DUP sk:test:88.57.195.251
+DUP git:test:88.57.195.251
+DUP test:test:88.57.195.251
+DUP guest:guest:88.57.195.251
+DUP admin:password:88.57.195.251
+DUP ubnt:ubnt:88.57.195.251
+DUP user:user:88.57.195.251
+DUP admin:1234:88.57.195.251
+admin:admin:88.57.195.251
+DUP support:support:41.33.43.241
+DUP mapp:test:41.33.43.241
+DUP map:test:41.33.43.241
+DUP logger:test:41.33.43.241
+DUP sk:test:41.33.43.241
+DUP git:test:41.33.43.241
+DUP test:test:41.33.43.241
+DUP guest:guest:41.33.43.241
+DUP admin:password:41.33.43.241
+DUP ubnt:ubnt:41.33.43.241
+DUP user:user:41.33.43.241
+DUP admin:1234:41.33.43.241
+DUP admin:admin:41.33.43.241
+root:root:41.33.43.241
+admin:admin:116.236.113.186
+DUP admin:password:43.252.158.87
+DUP admin:1234:43.252.158.87
+admin:admin:43.252.158.87
+DUP support:support:79.9.191.135
+DUP mapp:test:79.9.191.135
+DUP map:test:79.9.191.135
+DUP logger:test:79.9.191.135
+DUP sk:test:79.9.191.135
+DUP git:test:79.9.191.135
+DUP test:test:79.9.191.135
+DUP guest:guest:79.9.191.135
+DUP admin:password:79.9.191.135
+DUP ubnt:ubnt:79.9.191.135
+DUP user:user:79.9.191.135
+DUP admin:1234:79.9.191.135
+admin:admin:79.9.191.135
+admin:admin:69.193.227.130
+DUP support:support:93.149.127.225
+DUP mapp:test:93.149.127.225
+DUP map:test:93.149.127.225
+DUP logger:test:93.149.127.225
+DUP sk:test:93.149.127.225
+DUP git:test:93.149.127.225
+DUP test:test:93.149.127.225
+DUP guest:guest:93.149.127.225
+DUP admin:password:93.149.127.225
+DUP ubnt:ubnt:93.149.127.225
+DUP user:user:93.149.127.225
+DUP admin:1234:93.149.127.225
+DUP admin:admin:93.149.127.225
+root:root:93.149.127.225
+admin:admin:116.52.148.2
+DUP support:support:93.33.201.137
+DUP mapp:test:93.33.201.137
+DUP map:test:93.33.201.137
+DUP logger:test:93.33.201.137
+DUP sk:test:93.33.201.137
+DUP git:test:93.33.201.137
+DUP test:test:93.33.201.137
+DUP guest:guest:93.33.201.137
+DUP admin:password:93.33.201.137
+DUP ubnt:ubnt:93.33.201.137
+DUP user:user:93.33.201.137
+DUP admin:1234:93.33.201.137
+DUP admin:admin:93.33.201.137
+root:root:93.33.201.137
+DUP support:support:213.100.214.96
+DUP mapp:test:213.100.214.96
+DUP map:test:213.100.214.96
+DUP logger:test:213.100.214.96
+DUP sk:test:213.100.214.96
+DUP git:test:213.100.214.96
+DUP test:test:213.100.214.96
+DUP guest:guest:213.100.214.96
+DUP admin:password:213.100.214.96
+DUP ubnt:ubnt:213.100.214.96
+DUP user:user:213.100.214.96
+DUP admin:1234:213.100.214.96
+DUP admin:admin:213.100.214.96
+root:root:213.100.214.96
+admin:admin:203.223.41.148
+admin:admin:199.255.216.79
+admin:admin:24.14.187.57
+DUP support:support:89.118.29.50
+DUP mapp:test:89.118.29.50
+DUP map:test:89.118.29.50
+DUP logger:test:89.118.29.50
+DUP sk:test:89.118.29.50
+DUP git:test:89.118.29.50
+DUP test:test:89.118.29.50
+DUP guest:guest:89.118.29.50
+DUP admin:password:89.118.29.50
+DUP ubnt:ubnt:89.118.29.50
+DUP user:user:89.118.29.50
+DUP admin:1234:89.118.29.50
+DUP admin:admin:89.118.29.50
+root:root:89.118.29.50
+DUP ubnt:ubnt:82.143.75.1
+DUP user:user:82.143.75.1
+DUP admin:1234:82.143.75.1
+DUP admin:admin:82.143.75.1
+root:root:82.143.75.1
+DUP support:support:41.33.111.17
+DUP mapp:test:41.33.111.17
+DUP map:test:41.33.111.17
+DUP logger:test:41.33.111.17
+DUP sk:test:41.33.111.17
+DUP git:test:41.33.111.17
+DUP test:test:41.33.111.17
+DUP guest:guest:41.33.111.17
+DUP admin:password:41.33.111.17
+DUP ubnt:ubnt:41.33.111.17
+DUP user:user:41.33.111.17
+DUP admin:1234:41.33.111.17
+DUP admin:admin:41.33.111.17
+root:root:41.33.111.17
+admin:admin:223.241.109.204
+DUP support:support:95.254.177.152
+DUP mapp:test:95.254.177.152
+DUP map:test:95.254.177.152
+DUP logger:test:95.254.177.152
+DUP sk:test:95.254.177.152
+DUP git:test:95.254.177.152
+DUP test:test:95.254.177.152
+DUP guest:guest:95.254.177.152
+DUP admin:password:95.254.177.152
+DUP ubnt:ubnt:95.254.177.152
+DUP user:user:95.254.177.152
+DUP admin:1234:95.254.177.152
+admin:admin:95.254.177.152
+ubnt:ubnt:111.119.193.25
+DUP support:support:93.49.213.19
+DUP mapp:test:93.49.213.19
+DUP map:test:93.49.213.19
+DUP logger:test:93.49.213.19
+DUP sk:test:93.49.213.19
+DUP git:test:93.49.213.19
+DUP test:test:93.49.213.19
+DUP guest:guest:93.49.213.19
+DUP admin:password:93.49.213.19
+DUP ubnt:ubnt:93.49.213.19
+DUP user:user:93.49.213.19
+DUP admin:1234:93.49.213.19
+DUP admin:admin:93.49.213.19
+root:root:93.49.213.19
+admin:admin:62.232.6.170
+admin:admin:117.218.21.204
+admin:admin:58.247.122.126
+DUP support:support:93.158.72.116
+DUP mapp:test:93.158.72.116
+DUP map:test:93.158.72.116
+DUP logger:test:93.158.72.116
+DUP sk:test:93.158.72.116
+DUP git:test:93.158.72.116
+DUP test:test:93.158.72.116
+DUP guest:guest:93.158.72.116
+DUP admin:password:93.158.72.116
+DUP ubnt:ubnt:93.158.72.116
+DUP user:user:93.158.72.116
+DUP admin:1234:93.158.72.116
+DUP admin:admin:93.158.72.116
+root:root:93.158.72.116
+DUP support:support:5.61.217.158
+DUP mapp:test:5.61.217.158
+DUP map:test:5.61.217.158
+DUP logger:test:5.61.217.158
+DUP sk:test:5.61.217.158
+DUP git:test:5.61.217.158
+DUP test:test:5.61.217.158
+DUP guest:guest:5.61.217.158
+DUP admin:password:5.61.217.158
+DUP ubnt:ubnt:5.61.217.158
+DUP user:user:5.61.217.158
+DUP admin:1234:5.61.217.158
+admin:admin:5.61.217.158
+admin:admin:96.1.103.151
+DUP support:support:93.61.135.32
+DUP mapp:test:93.61.135.32
+DUP map:test:93.61.135.32
+DUP logger:test:93.61.135.32
+DUP sk:test:93.61.135.32
+DUP git:test:93.61.135.32
+DUP test:test:93.61.135.32
+DUP guest:guest:93.61.135.32
+DUP admin:password:93.61.135.32
+DUP ubnt:ubnt:93.61.135.32
+DUP user:user:93.61.135.32
+DUP admin:1234:93.61.135.32
+DUP admin:admin:93.61.135.32
+root:root:93.61.135.32
+admin:admin:180.151.81.76
+admin:admin:86.98.65.157
+admin:admin:37.146.182.226
+admin:password:180.23.8.146
+admin:admin:180.174.0.13
+DUP support:support:93.54.107.58
+DUP mapp:test:93.54.107.58
+DUP map:test:93.54.107.58
+DUP logger:test:93.54.107.58
+DUP sk:test:93.54.107.58
+DUP git:test:93.54.107.58
+DUP test:test:93.54.107.58
+DUP guest:guest:93.54.107.58
+DUP admin:password:93.54.107.58
+DUP ubnt:ubnt:93.54.107.58
+DUP user:user:93.54.107.58
+DUP admin:1234:93.54.107.58
+DUP admin:admin:93.54.107.58
+root:root:93.54.107.58
+admin:admin:223.75.49.6
+DUP support:support:217.59.69.105
+DUP mapp:test:217.59.69.105
+DUP map:test:217.59.69.105
+DUP logger:test:217.59.69.105
+DUP sk:test:217.59.69.105
+DUP git:test:217.59.69.105
+DUP test:test:217.59.69.105
+DUP guest:guest:217.59.69.105
+DUP admin:password:217.59.69.105
+DUP ubnt:ubnt:217.59.69.105
+DUP user:user:217.59.69.105
+DUP admin:1234:217.59.69.105
+admin:admin:217.59.69.105
+DUP support:support:80.19.28.65
+DUP mapp:test:80.19.28.65
+DUP map:test:80.19.28.65
+DUP logger:test:80.19.28.65
+DUP sk:test:80.19.28.65
+DUP git:test:80.19.28.65
+DUP test:test:80.19.28.65
+DUP guest:guest:80.19.28.65
+DUP admin:password:80.19.28.65
+DUP ubnt:ubnt:80.19.28.65
+DUP user:user:80.19.28.65
+DUP admin:1234:80.19.28.65
+admin:admin:80.19.28.65
+admin:admin:87.15.57.150
+admin:admin:52.47.200.30
+admin:admin:180.107.232.139
+DUP support:support:213.136.141.217
+DUP mapp:test:213.136.141.217
+DUP map:test:213.136.141.217
+DUP logger:test:213.136.141.217
+DUP sk:test:213.136.141.217
+DUP git:test:213.136.141.217
+DUP test:test:213.136.141.217
+DUP guest:guest:213.136.141.217
+DUP admin:password:213.136.141.217
+DUP ubnt:ubnt:213.136.141.217
+DUP user:user:213.136.141.217
+DUP admin:1234:213.136.141.217
+DUP admin:admin:213.136.141.217
+root:root:213.136.141.217
+admin:admin:222.174.181.70
+admin:admin:103.40.132.52
+DUP support:support:93.151.235.102
+DUP mapp:test:93.151.235.102
+DUP map:test:93.151.235.102
+DUP logger:test:93.151.235.102
+DUP sk:test:93.151.235.102
+DUP git:test:93.151.235.102
+DUP test:test:93.151.235.102
+DUP guest:guest:93.151.235.102
+DUP admin:password:93.151.235.102
+DUP ubnt:ubnt:93.151.235.102
+DUP user:user:93.151.235.102
+DUP admin:1234:93.151.235.102
+admin:admin:93.151.235.102
+admin:admin:45.160.11.195
+admin:1234:71.76.202.101
+admin:admin:136.233.10.132
+DUP support:support:213.149.210.4
+DUP mapp:test:213.149.210.4
+DUP map:test:213.149.210.4
+DUP logger:test:213.149.210.4
+DUP sk:test:213.149.210.4
+DUP git:test:213.149.210.4
+DUP test:test:213.149.210.4
+DUP guest:guest:213.149.210.4
+DUP admin:password:213.149.210.4
+DUP ubnt:ubnt:213.149.210.4
+DUP user:user:213.149.210.4
+DUP admin:1234:213.149.210.4
+DUP admin:admin:213.149.210.4
+root:root:213.149.210.4
+admin:admin:116.228.244.38
+DUP support:support:93.54.69.197
+DUP mapp:test:93.54.69.197
+DUP map:test:93.54.69.197
+DUP logger:test:93.54.69.197
+DUP sk:test:93.54.69.197
+DUP git:test:93.54.69.197
+DUP test:test:93.54.69.197
+DUP guest:guest:93.54.69.197
+DUP admin:password:93.54.69.197
+DUP ubnt:ubnt:93.54.69.197
+DUP user:user:93.54.69.197
+DUP admin:1234:93.54.69.197
+DUP admin:admin:93.54.69.197
+root:root:93.54.69.197
+DUP ubnt:ubnt:212.101.250.65
+DUP user:user:212.101.250.65
+DUP admin:1234:212.101.250.65
+DUP admin:admin:212.101.250.65
+root:root:212.101.250.65
+ubnt:ubnt:111.106.174.248
+DUP support:support:37.114.141.243
+DUP mapp:test:37.114.141.243
+DUP map:test:37.114.141.243
+DUP logger:test:37.114.141.243
+DUP sk:test:37.114.141.243
+DUP git:test:37.114.141.243
+DUP test:test:37.114.141.243
+DUP guest:guest:37.114.141.243
+DUP admin:password:37.114.141.243
+DUP ubnt:ubnt:37.114.141.243
+DUP user:user:37.114.141.243
+DUP admin:1234:37.114.141.243
+DUP admin:admin:37.114.141.243
+root:root:37.114.141.243
+admin:admin:112.5.2.140
+DUP support:support:2.239.219.1
+DUP mapp:test:2.239.219.1
+DUP map:test:2.239.219.1
+DUP logger:test:2.239.219.1
+DUP sk:test:2.239.219.1
+DUP git:test:2.239.219.1
+DUP test:test:2.239.219.1
+DUP guest:guest:2.239.219.1
+DUP admin:password:2.239.219.1
+DUP ubnt:ubnt:2.239.219.1
+DUP user:user:2.239.219.1
+DUP admin:1234:2.239.219.1
+DUP admin:admin:2.239.219.1
+root:root:2.239.219.1
+DUP support:support:213.149.199.223
+DUP mapp:test:213.149.199.223
+DUP map:test:213.149.199.223
+DUP logger:test:213.149.199.223
+DUP sk:test:213.149.199.223
+DUP git:test:213.149.199.223
+DUP test:test:213.149.199.223
+DUP guest:guest:213.149.199.223
+DUP admin:password:213.149.199.223
+DUP ubnt:ubnt:213.149.199.223
+DUP user:user:213.149.199.223
+DUP admin:1234:213.149.199.223
+DUP admin:admin:213.149.199.223
+root:root:213.149.199.223
+DUP support:support:95.228.221.170
+DUP mapp:test:95.228.221.170
+DUP map:test:95.228.221.170
+DUP logger:test:95.228.221.170
+DUP sk:test:95.228.221.170
+DUP git:test:95.228.221.170
+DUP test:test:95.228.221.170
+DUP guest:guest:95.228.221.170
+DUP admin:password:95.228.221.170
+DUP ubnt:ubnt:95.228.221.170
+DUP user:user:95.228.221.170
+DUP admin:1234:95.228.221.170
+admin:admin:95.228.221.170
+admin:admin:45.249.43.163
+admin:admin:94.178.141.137
+admin:admin:105.155.251.232
+admin:admin:182.141.29.200
+admin:admin:61.152.166.138
+support:support:190.34.183.142
+admin:admin:103.29.117.238
+admin:admin:202.98.209.178
+admin:admin:59.46.0.12
+DUP support:support:62.94.123.145
+DUP mapp:test:62.94.123.145
+DUP map:test:62.94.123.145
+DUP logger:test:62.94.123.145
+DUP sk:test:62.94.123.145
+DUP git:test:62.94.123.145
+DUP test:test:62.94.123.145
+DUP guest:guest:62.94.123.145
+DUP admin:password:62.94.123.145
+DUP ubnt:ubnt:62.94.123.145
+DUP user:user:62.94.123.145
+DUP admin:1234:62.94.123.145
+DUP admin:admin:62.94.123.145
+root:root:62.94.123.145
+DUP support:support:78.4.107.78
+DUP mapp:test:78.4.107.78
+DUP map:test:78.4.107.78
+DUP logger:test:78.4.107.78
+DUP sk:test:78.4.107.78
+DUP git:test:78.4.107.78
+DUP test:test:78.4.107.78
+DUP guest:guest:78.4.107.78
+DUP admin:password:78.4.107.78
+DUP ubnt:ubnt:78.4.107.78
+DUP user:user:78.4.107.78
+DUP admin:1234:78.4.107.78
+DUP admin:admin:78.4.107.78
+root:root:78.4.107.78
+admin:admin:36.152.17.172
+DUP support:support:80.17.196.61
+DUP mapp:test:80.17.196.61
+DUP map:test:80.17.196.61
+DUP logger:test:80.17.196.61
+DUP sk:test:80.17.196.61
+DUP git:test:80.17.196.61
+DUP test:test:80.17.196.61
+DUP guest:guest:80.17.196.61
+DUP admin:password:80.17.196.61
+DUP ubnt:ubnt:80.17.196.61
+DUP user:user:80.17.196.61
+DUP admin:1234:80.17.196.61
+admin:admin:80.17.196.61
+DUP support:support:85.238.220.47
+DUP mapp:test:85.238.220.47
+DUP map:test:85.238.220.47
+DUP logger:test:85.238.220.47
+DUP sk:test:85.238.220.47
+DUP git:test:85.238.220.47
+DUP test:test:85.238.220.47
+DUP guest:guest:85.238.220.47
+DUP admin:password:85.238.220.47
+DUP ubnt:ubnt:85.238.220.47
+DUP user:user:85.238.220.47
+DUP admin:1234:85.238.220.47
+DUP admin:admin:85.238.220.47
+root:root:85.238.220.47
+DUP support:support:93.35.238.44
+DUP mapp:test:93.35.238.44
+DUP map:test:93.35.238.44
+DUP logger:test:93.35.238.44
+DUP sk:test:93.35.238.44
+DUP git:test:93.35.238.44
+DUP test:test:93.35.238.44
+DUP guest:guest:93.35.238.44
+DUP admin:password:93.35.238.44
+DUP ubnt:ubnt:93.35.238.44
+DUP user:user:93.35.238.44
+DUP admin:1234:93.35.238.44
+DUP admin:admin:93.35.238.44
+root:root:93.35.238.44
+admin:admin:58.222.5.98
+admin:admin:91.219.57.44
+admin:admin:220.227.176.198
+admin:1234:103.89.57.230
+DUP support:support:212.210.108.137
+DUP mapp:test:212.210.108.137
+DUP map:test:212.210.108.137
+DUP logger:test:212.210.108.137
+DUP sk:test:212.210.108.137
+DUP git:test:212.210.108.137
+DUP test:test:212.210.108.137
+DUP guest:guest:212.210.108.137
+DUP admin:password:212.210.108.137
+DUP ubnt:ubnt:212.210.108.137
+DUP user:user:212.210.108.137
+DUP admin:1234:212.210.108.137
+admin:admin:212.210.108.137
+DUP mapp:test:118.128.36.225
+DUP map:test:118.128.36.225
+DUP logger:test:118.128.36.225
+DUP sk:test:118.128.36.225
+DUP git:test:118.128.36.225
+test:test:118.128.36.225
+admin:admin:14.142.239.74
+DUP support:support:93.46.248.81
+DUP mapp:test:93.46.248.81
+DUP map:test:93.46.248.81
+DUP logger:test:93.46.248.81
+DUP sk:test:93.46.248.81
+DUP git:test:93.46.248.81
+DUP test:test:93.46.248.81
+DUP guest:guest:93.46.248.81
+DUP admin:password:93.46.248.81
+DUP ubnt:ubnt:93.46.248.81
+DUP user:user:93.46.248.81
+DUP admin:1234:93.46.248.81
+DUP admin:admin:93.46.248.81
+root:root:93.46.248.81
+admin:admin:203.92.43.14
+admin:admin:94.203.194.6
+DUP support:support:188.230.142.131
+DUP mapp:test:188.230.142.131
+DUP map:test:188.230.142.131
+DUP logger:test:188.230.142.131
+DUP sk:test:188.230.142.131
+DUP git:test:188.230.142.131
+DUP test:test:188.230.142.131
+DUP guest:guest:188.230.142.131
+DUP admin:password:188.230.142.131
+DUP ubnt:ubnt:188.230.142.131
+DUP user:user:188.230.142.131
+DUP admin:1234:188.230.142.131
+DUP admin:admin:188.230.142.131
+root:root:188.230.142.131
+DUP support:support:213.89.201.15
+DUP mapp:test:213.89.201.15
+DUP map:test:213.89.201.15
+DUP logger:test:213.89.201.15
+DUP sk:test:213.89.201.15
+DUP git:test:213.89.201.15
+DUP test:test:213.89.201.15
+DUP guest:guest:213.89.201.15
+DUP admin:password:213.89.201.15
+DUP ubnt:ubnt:213.89.201.15
+DUP user:user:213.89.201.15
+DUP admin:1234:213.89.201.15
+DUP admin:admin:213.89.201.15
+root:root:213.89.201.15
+admin:admin:217.24.205.38
+DUP support:support:85.226.253.169
+DUP mapp:test:85.226.253.169
+DUP map:test:85.226.253.169
+DUP logger:test:85.226.253.169
+DUP sk:test:85.226.253.169
+DUP git:test:85.226.253.169
+DUP test:test:85.226.253.169
+DUP guest:guest:85.226.253.169
+DUP admin:password:85.226.253.169
+DUP ubnt:ubnt:85.226.253.169
+DUP user:user:85.226.253.169
+DUP admin:1234:85.226.253.169
+DUP admin:admin:85.226.253.169
+root:root:85.226.253.169
+DUP support:support:94.91.203.9
+DUP mapp:test:94.91.203.9
+DUP map:test:94.91.203.9
+DUP logger:test:94.91.203.9
+DUP sk:test:94.91.203.9
+DUP git:test:94.91.203.9
+DUP test:test:94.91.203.9
+DUP guest:guest:94.91.203.9
+DUP admin:password:94.91.203.9
+DUP ubnt:ubnt:94.91.203.9
+DUP user:user:94.91.203.9
+DUP admin:1234:94.91.203.9
+admin:admin:94.91.203.9
+admin:admin:41.59.204.14
+DUP support:support:195.103.218.11
+DUP mapp:test:195.103.218.11
+DUP map:test:195.103.218.11
+DUP logger:test:195.103.218.11
+DUP sk:test:195.103.218.11
+DUP git:test:195.103.218.11
+DUP test:test:195.103.218.11
+DUP guest:guest:195.103.218.11
+DUP admin:password:195.103.218.11
+DUP ubnt:ubnt:195.103.218.11
+DUP user:user:195.103.218.11
+DUP admin:1234:195.103.218.11
+admin:admin:195.103.218.11
+admin:admin:49.249.232.246
+DUP admin:1234:156.67.22.137
+DUP admin:admin:156.67.22.137
+root:root:156.67.22.137
+DUP support:support:41.187.25.161
+DUP mapp:test:41.187.25.161
+DUP map:test:41.187.25.161
+DUP logger:test:41.187.25.161
+DUP sk:test:41.187.25.161
+DUP git:test:41.187.25.161
+DUP test:test:41.187.25.161
+DUP guest:guest:41.187.25.161
+DUP admin:password:41.187.25.161
+DUP ubnt:ubnt:41.187.25.161
+DUP user:user:41.187.25.161
+DUP admin:1234:41.187.25.161
+DUP admin:admin:41.187.25.161
+root:root:41.187.25.161
+DUP support:support:80.16.110.225
+DUP mapp:test:80.16.110.225
+DUP map:test:80.16.110.225
+DUP logger:test:80.16.110.225
+DUP sk:test:80.16.110.225
+DUP git:test:80.16.110.225
+DUP test:test:80.16.110.225
+DUP guest:guest:80.16.110.225
+DUP admin:password:80.16.110.225
+DUP ubnt:ubnt:80.16.110.225
+DUP user:user:80.16.110.225
+DUP admin:1234:80.16.110.225
+admin:admin:80.16.110.225
+ubnt:ubnt:103.56.69.203
+admin:admin:86.98.94.127
+admin:admin:61.164.86.194
+DUP support:support:79.14.238.2
+DUP mapp:test:79.14.238.2
+DUP map:test:79.14.238.2
+DUP logger:test:79.14.238.2
+DUP sk:test:79.14.238.2
+DUP git:test:79.14.238.2
+DUP test:test:79.14.238.2
+DUP guest:guest:79.14.238.2
+DUP admin:password:79.14.238.2
+DUP ubnt:ubnt:79.14.238.2
+DUP user:user:79.14.238.2
+DUP admin:1234:79.14.238.2
+admin:admin:79.14.238.2
+admin:admin:117.206.148.161
+admin:admin:69.1.15.33
+admin:admin:46.196.251.229
+admin:admin:61.132.102.10
+ubnt:ubnt:186.188.19.68
+DUP support:support:80.22.218.9
+DUP mapp:test:80.22.218.9
+DUP map:test:80.22.218.9
+DUP logger:test:80.22.218.9
+DUP sk:test:80.22.218.9
+DUP git:test:80.22.218.9
+DUP test:test:80.22.218.9
+DUP guest:guest:80.22.218.9
+DUP admin:password:80.22.218.9
+DUP ubnt:ubnt:80.22.218.9
+DUP user:user:80.22.218.9
+DUP admin:1234:80.22.218.9
+admin:admin:80.22.218.9
+admin:password:180.24.98.225
+DUP support:support:93.61.138.40
+DUP mapp:test:93.61.138.40
+DUP map:test:93.61.138.40
+DUP logger:test:93.61.138.40
+DUP sk:test:93.61.138.40
+DUP git:test:93.61.138.40
+DUP test:test:93.61.138.40
+DUP guest:guest:93.61.138.40
+DUP admin:password:93.61.138.40
+DUP ubnt:ubnt:93.61.138.40
+DUP user:user:93.61.138.40
+DUP admin:1234:93.61.138.40
+DUP admin:admin:93.61.138.40
+root:root:93.61.138.40
+DUP support:support:93.45.246.57
+DUP mapp:test:93.45.246.57
+DUP map:test:93.45.246.57
+DUP logger:test:93.45.246.57
+DUP sk:test:93.45.246.57
+DUP git:test:93.45.246.57
+DUP test:test:93.45.246.57
+DUP guest:guest:93.45.246.57
+DUP admin:password:93.45.246.57
+DUP ubnt:ubnt:93.45.246.57
+DUP user:user:93.45.246.57
+DUP admin:1234:93.45.246.57
+DUP admin:admin:93.45.246.57
+root:root:93.45.246.57
+admin:admin:186.222.115.111
+DUP support:support:93.35.228.106
+DUP mapp:test:93.35.228.106
+DUP map:test:93.35.228.106
+DUP logger:test:93.35.228.106
+DUP sk:test:93.35.228.106
+DUP git:test:93.35.228.106
+DUP test:test:93.35.228.106
+DUP guest:guest:93.35.228.106
+DUP admin:password:93.35.228.106
+DUP ubnt:ubnt:93.35.228.106
+DUP user:user:93.35.228.106
+DUP admin:1234:93.35.228.106
+DUP admin:admin:93.35.228.106
+root:root:93.35.228.106
+admin:admin:84.114.17.166
+DUP support:support:78.4.132.122
+DUP mapp:test:78.4.132.122
+DUP map:test:78.4.132.122
+DUP logger:test:78.4.132.122
+DUP sk:test:78.4.132.122
+DUP git:test:78.4.132.122
+DUP test:test:78.4.132.122
+DUP guest:guest:78.4.132.122
+DUP admin:password:78.4.132.122
+DUP ubnt:ubnt:78.4.132.122
+DUP user:user:78.4.132.122
+DUP admin:1234:78.4.132.122
+DUP admin:admin:78.4.132.122
+root:root:78.4.132.122
+admin:admin:89.215.238.65
+admin:1234:218.79.49.81
+admin:admin:117.159.40.73
+guest:guest:178.236.95.31
+admin:admin:124.65.117.58
+DUP support:support:79.10.40.29
+DUP mapp:test:79.10.40.29
+DUP map:test:79.10.40.29
+DUP logger:test:79.10.40.29
+DUP sk:test:79.10.40.29
+DUP git:test:79.10.40.29
+DUP test:test:79.10.40.29
+DUP guest:guest:79.10.40.29
+DUP admin:password:79.10.40.29
+DUP ubnt:ubnt:79.10.40.29
+DUP user:user:79.10.40.29
+DUP admin:1234:79.10.40.29
+admin:admin:79.10.40.29
+admin:admin:5.141.246.19
+DUP support:support:195.120.205.213
+DUP mapp:test:195.120.205.213
+DUP map:test:195.120.205.213
+DUP logger:test:195.120.205.213
+DUP sk:test:195.120.205.213
+DUP git:test:195.120.205.213
+DUP test:test:195.120.205.213
+DUP guest:guest:195.120.205.213
+DUP admin:password:195.120.205.213
+DUP ubnt:ubnt:195.120.205.213
+DUP user:user:195.120.205.213
+DUP admin:1234:195.120.205.213
+admin:admin:195.120.205.213
+admin:admin:106.39.117.253
+admin:admin:59.120.194.210
+guest:guest:61.184.176.231
+DUP support:support:85.18.44.27
+DUP mapp:test:85.18.44.27
+DUP map:test:85.18.44.27
+DUP logger:test:85.18.44.27
+DUP sk:test:85.18.44.27
+DUP git:test:85.18.44.27
+DUP test:test:85.18.44.27
+DUP guest:guest:85.18.44.27
+DUP admin:password:85.18.44.27
+DUP ubnt:ubnt:85.18.44.27
+DUP user:user:85.18.44.27
+DUP admin:1234:85.18.44.27
+DUP admin:admin:85.18.44.27
+root:root:85.18.44.27
+admin:admin:112.253.23.246
+DUP support:support:41.33.23.97
+DUP mapp:test:41.33.23.97
+DUP map:test:41.33.23.97
+DUP logger:test:41.33.23.97
+DUP sk:test:41.33.23.97
+DUP git:test:41.33.23.97
+DUP test:test:41.33.23.97
+DUP guest:guest:41.33.23.97
+DUP admin:password:41.33.23.97
+DUP ubnt:ubnt:41.33.23.97
+DUP user:user:41.33.23.97
+DUP admin:1234:41.33.23.97
+DUP admin:admin:41.33.23.97
+root:root:41.33.23.97
+test:test:41.223.76.35
+admin:admin:114.247.209.242
+admin:admin:218.2.210.246
+DUP support:support:213.112.72.117
+DUP mapp:test:213.112.72.117
+DUP map:test:213.112.72.117
+DUP logger:test:213.112.72.117
+DUP sk:test:213.112.72.117
+DUP git:test:213.112.72.117
+DUP test:test:213.112.72.117
+DUP guest:guest:213.112.72.117
+DUP admin:password:213.112.72.117
+DUP ubnt:ubnt:213.112.72.117
+DUP user:user:213.112.72.117
+DUP admin:1234:213.112.72.117
+DUP admin:admin:213.112.72.117
+root:root:213.112.72.117
+DUP support:support:85.18.133.171
+DUP mapp:test:85.18.133.171
+DUP map:test:85.18.133.171
+DUP logger:test:85.18.133.171
+DUP sk:test:85.18.133.171
+DUP git:test:85.18.133.171
+DUP test:test:85.18.133.171
+DUP guest:guest:85.18.133.171
+DUP admin:password:85.18.133.171
+DUP ubnt:ubnt:85.18.133.171
+DUP user:user:85.18.133.171
+DUP admin:1234:85.18.133.171
+DUP admin:admin:85.18.133.171
+root:root:85.18.133.171
+admin:admin:43.230.199.116
+admin:admin:83.110.233.37
+admin:admin:189.59.4.73
+support:support:190.108.22.183
+DUP support:support:213.113.9.171
+DUP mapp:test:213.113.9.171
+DUP map:test:213.113.9.171
+DUP logger:test:213.113.9.171
+DUP sk:test:213.113.9.171
+DUP git:test:213.113.9.171
+DUP test:test:213.113.9.171
+DUP guest:guest:213.113.9.171
+DUP admin:password:213.113.9.171
+DUP ubnt:ubnt:213.113.9.171
+DUP user:user:213.113.9.171
+DUP admin:1234:213.113.9.171
+DUP admin:admin:213.113.9.171
+root:root:213.113.9.171
+admin:admin:59.99.249.211
+admin:admin:72.139.252.56
+DUP support:support:83.211.84.221
+DUP mapp:test:83.211.84.221
+DUP map:test:83.211.84.221
+DUP logger:test:83.211.84.221
+DUP sk:test:83.211.84.221
+DUP git:test:83.211.84.221
+DUP test:test:83.211.84.221
+DUP guest:guest:83.211.84.221
+DUP admin:password:83.211.84.221
+DUP ubnt:ubnt:83.211.84.221
+DUP user:user:83.211.84.221
+DUP admin:1234:83.211.84.221
+DUP admin:admin:83.211.84.221
+root:root:83.211.84.221
+admin:admin:59.45.114.5
+admin:admin:115.112.39.202
+admin:admin:124.78.83.16
+admin:admin:187.141.60.136
+DUP support:support:41.33.159.177
+DUP mapp:test:41.33.159.177
+DUP map:test:41.33.159.177
+DUP logger:test:41.33.159.177
+DUP sk:test:41.33.159.177
+DUP git:test:41.33.159.177
+DUP test:test:41.33.159.177
+DUP guest:guest:41.33.159.177
+DUP admin:password:41.33.159.177
+DUP ubnt:ubnt:41.33.159.177
+DUP user:user:41.33.159.177
+DUP admin:1234:41.33.159.177
+DUP admin:admin:41.33.159.177
+root:root:41.33.159.177
+DUP support:support:93.33.240.57
+DUP mapp:test:93.33.240.57
+DUP map:test:93.33.240.57
+DUP logger:test:93.33.240.57
+DUP sk:test:93.33.240.57
+DUP git:test:93.33.240.57
+DUP test:test:93.33.240.57
+DUP guest:guest:93.33.240.57
+DUP admin:password:93.33.240.57
+DUP ubnt:ubnt:93.33.240.57
+DUP user:user:93.33.240.57
+DUP admin:1234:93.33.240.57
+DUP admin:admin:93.33.240.57
+root:root:93.33.240.57
+ubnt:ubnt:103.77.230.184
+DUP support:support:37.114.157.38
+DUP mapp:test:37.114.157.38
+DUP map:test:37.114.157.38
+DUP logger:test:37.114.157.38
+DUP sk:test:37.114.157.38
+DUP git:test:37.114.157.38
+DUP test:test:37.114.157.38
+DUP guest:guest:37.114.157.38
+DUP admin:password:37.114.157.38
+DUP ubnt:ubnt:37.114.157.38
+DUP user:user:37.114.157.38
+DUP admin:1234:37.114.157.38
+DUP admin:admin:37.114.157.38
+root:root:37.114.157.38
+ubnt:ubnt:45.160.138.165
+admin:admin:222.179.125.77
+DUP support:support:93.61.49.253
+DUP mapp:test:93.61.49.253
+DUP map:test:93.61.49.253
+DUP logger:test:93.61.49.253
+DUP sk:test:93.61.49.253
+DUP git:test:93.61.49.253
+DUP test:test:93.61.49.253
+DUP guest:guest:93.61.49.253
+DUP admin:password:93.61.49.253
+DUP ubnt:ubnt:93.61.49.253
+DUP user:user:93.61.49.253
+DUP admin:1234:93.61.49.253
+DUP admin:admin:93.61.49.253
+root:root:93.61.49.253
+user:user:61.230.45.252
+DUP support:support:80.17.49.53
+DUP mapp:test:80.17.49.53
+DUP map:test:80.17.49.53
+DUP logger:test:80.17.49.53
+DUP sk:test:80.17.49.53
+DUP git:test:80.17.49.53
+DUP test:test:80.17.49.53
+DUP guest:guest:80.17.49.53
+DUP admin:password:80.17.49.53
+DUP ubnt:ubnt:80.17.49.53
+DUP user:user:80.17.49.53
+DUP admin:1234:80.17.49.53
+admin:admin:80.17.49.53
+admin:admin:27.106.92.78
+admin:admin:41.224.249.80
+admin:admin:103.211.39.135
+admin:admin:114.143.186.3
+DUP support:support:93.39.192.137
+DUP mapp:test:93.39.192.137
+DUP map:test:93.39.192.137
+DUP logger:test:93.39.192.137
+DUP sk:test:93.39.192.137
+DUP git:test:93.39.192.137
+DUP test:test:93.39.192.137
+DUP guest:guest:93.39.192.137
+DUP admin:password:93.39.192.137
+DUP ubnt:ubnt:93.39.192.137
+DUP user:user:93.39.192.137
+DUP admin:1234:93.39.192.137
+DUP admin:admin:93.39.192.137
+root:root:93.39.192.137
+admin:1234:107.15.203.118
+DUP support:support:93.54.78.202
+DUP mapp:test:93.54.78.202
+DUP map:test:93.54.78.202
+DUP logger:test:93.54.78.202
+DUP sk:test:93.54.78.202
+DUP git:test:93.54.78.202
+DUP test:test:93.54.78.202
+DUP guest:guest:93.54.78.202
+DUP admin:password:93.54.78.202
+DUP ubnt:ubnt:93.54.78.202
+DUP user:user:93.54.78.202
+DUP admin:1234:93.54.78.202
+DUP admin:admin:93.54.78.202
+root:root:93.54.78.202
+admin:admin:210.212.44.36
+admin:admin:183.167.214.4
+DUP support:support:41.33.84.161
+DUP mapp:test:41.33.84.161
+DUP map:test:41.33.84.161
+DUP logger:test:41.33.84.161
+DUP sk:test:41.33.84.161
+DUP git:test:41.33.84.161
+DUP test:test:41.33.84.161
+DUP guest:guest:41.33.84.161
+DUP admin:password:41.33.84.161
+DUP ubnt:ubnt:41.33.84.161
+DUP user:user:41.33.84.161
+DUP admin:1234:41.33.84.161
+DUP admin:admin:41.33.84.161
+root:root:41.33.84.161
+DUP support:support:77.53.214.20
+DUP mapp:test:77.53.214.20
+DUP map:test:77.53.214.20
+DUP logger:test:77.53.214.20
+DUP sk:test:77.53.214.20
+DUP git:test:77.53.214.20
+DUP test:test:77.53.214.20
+DUP guest:guest:77.53.214.20
+DUP admin:password:77.53.214.20
+DUP ubnt:ubnt:77.53.214.20
+DUP user:user:77.53.214.20
+DUP admin:1234:77.53.214.20
+DUP admin:admin:77.53.214.20
+root:root:77.53.214.20
+admin:admin:120.192.73.44
+admin:admin:85.233.231.205
+admin:admin:58.16.71.98
+admin:password:108.58.229.182
+admin:admin:202.189.234.140
+DUP support:support:60.248.190.69
+DUP mapp:test:60.248.190.69
+DUP map:test:60.248.190.69
+DUP logger:test:60.248.190.69
+DUP sk:test:60.248.190.69
+DUP git:test:60.248.190.69
+DUP test:test:60.248.190.69
+DUP guest:guest:60.248.190.69
+DUP admin:password:60.248.190.69
+DUP ubnt:ubnt:60.248.190.69
+DUP user:user:60.248.190.69
+DUP admin:1234:60.248.190.69
+DUP admin:admin:60.248.190.69
+root:root:60.248.190.69
+DUP support:support:93.46.212.225
+DUP mapp:test:93.46.212.225
+DUP map:test:93.46.212.225
+DUP logger:test:93.46.212.225
+DUP sk:test:93.46.212.225
+DUP git:test:93.46.212.225
+DUP test:test:93.46.212.225
+DUP guest:guest:93.46.212.225
+DUP admin:password:93.46.212.225
+DUP ubnt:ubnt:93.46.212.225
+DUP user:user:93.46.212.225
+DUP admin:1234:93.46.212.225
+DUP admin:admin:93.46.212.225
+root:root:93.46.212.225
+DUP support:support:83.253.191.136
+DUP mapp:test:83.253.191.136
+DUP map:test:83.253.191.136
+DUP logger:test:83.253.191.136
+DUP sk:test:83.253.191.136
+DUP git:test:83.253.191.136
+DUP test:test:83.253.191.136
+DUP guest:guest:83.253.191.136
+DUP admin:password:83.253.191.136
+DUP ubnt:ubnt:83.253.191.136
+DUP user:user:83.253.191.136
+DUP admin:1234:83.253.191.136
+DUP admin:admin:83.253.191.136
+root:root:83.253.191.136
+DUP support:support:78.5.91.62
+DUP mapp:test:78.5.91.62
+DUP map:test:78.5.91.62
+DUP logger:test:78.5.91.62
+DUP sk:test:78.5.91.62
+DUP git:test:78.5.91.62
+DUP test:test:78.5.91.62
+DUP guest:guest:78.5.91.62
+DUP admin:password:78.5.91.62
+DUP ubnt:ubnt:78.5.91.62
+DUP user:user:78.5.91.62
+DUP admin:1234:78.5.91.62
+DUP admin:admin:78.5.91.62
+root:root:78.5.91.62
+DUP admin:password:109.105.167.93
+DUP admin:1234:109.105.167.93
+admin:admin:109.105.167.93
+root:root:103.69.218.66
+admin:admin:121.158.14.4
+admin:admin:183.82.119.64
+DUP support:support:83.211.189.248
+DUP mapp:test:83.211.189.248
+DUP map:test:83.211.189.248
+DUP logger:test:83.211.189.248
+DUP sk:test:83.211.189.248
+DUP git:test:83.211.189.248
+DUP test:test:83.211.189.248
+DUP guest:guest:83.211.189.248
+DUP admin:password:83.211.189.248
+DUP ubnt:ubnt:83.211.189.248
+DUP user:user:83.211.189.248
+DUP admin:1234:83.211.189.248
+DUP admin:admin:83.211.189.248
+root:root:83.211.189.248
+DUP support:support:31.208.29.243
+DUP mapp:test:31.208.29.243
+DUP map:test:31.208.29.243
+DUP logger:test:31.208.29.243
+DUP sk:test:31.208.29.243
+DUP git:test:31.208.29.243
+DUP test:test:31.208.29.243
+DUP guest:guest:31.208.29.243
+DUP admin:password:31.208.29.243
+DUP ubnt:ubnt:31.208.29.243
+DUP user:user:31.208.29.243
+DUP admin:1234:31.208.29.243
+DUP admin:admin:31.208.29.243
+root:root:31.208.29.243
+admin:password:200.91.115.77
+DUP support:support:62.110.253.37
+DUP mapp:test:62.110.253.37
+DUP map:test:62.110.253.37
+DUP logger:test:62.110.253.37
+DUP sk:test:62.110.253.37
+DUP git:test:62.110.253.37
+DUP test:test:62.110.253.37
+DUP guest:guest:62.110.253.37
+DUP admin:password:62.110.253.37
+DUP ubnt:ubnt:62.110.253.37
+DUP user:user:62.110.253.37
+DUP admin:1234:62.110.253.37
+admin:admin:62.110.253.37
+DUP support:support:84.217.4.112
+DUP mapp:test:84.217.4.112
+DUP map:test:84.217.4.112
+DUP logger:test:84.217.4.112
+DUP sk:test:84.217.4.112
+DUP git:test:84.217.4.112
+DUP test:test:84.217.4.112
+DUP guest:guest:84.217.4.112
+DUP admin:password:84.217.4.112
+DUP ubnt:ubnt:84.217.4.112
+DUP user:user:84.217.4.112
+DUP admin:1234:84.217.4.112
+DUP admin:admin:84.217.4.112
+root:root:84.217.4.112
+DUP support:support:93.43.85.137
+DUP mapp:test:93.43.85.137
+DUP map:test:93.43.85.137
+DUP logger:test:93.43.85.137
+DUP sk:test:93.43.85.137
+DUP git:test:93.43.85.137
+DUP test:test:93.43.85.137
+DUP guest:guest:93.43.85.137
+DUP admin:password:93.43.85.137
+DUP ubnt:ubnt:93.43.85.137
+DUP user:user:93.43.85.137
+DUP admin:1234:93.43.85.137
+DUP admin:admin:93.43.85.137
+root:root:93.43.85.137
+admin:admin:31.13.203.237
+admin:admin:117.57.168.80
+DUP support:support:195.31.153.205
+DUP mapp:test:195.31.153.205
+DUP map:test:195.31.153.205
+DUP logger:test:195.31.153.205
+DUP sk:test:195.31.153.205
+DUP git:test:195.31.153.205
+DUP test:test:195.31.153.205
+DUP guest:guest:195.31.153.205
+DUP admin:password:195.31.153.205
+DUP ubnt:ubnt:195.31.153.205
+DUP user:user:195.31.153.205
+DUP admin:1234:195.31.153.205
+admin:admin:195.31.153.205
+admin:admin:18.191.181.85
+admin:admin:123.178.26.198
+DUP support:support:79.62.37.51
+DUP mapp:test:79.62.37.51
+DUP map:test:79.62.37.51
+DUP logger:test:79.62.37.51
+DUP sk:test:79.62.37.51
+DUP git:test:79.62.37.51
+DUP test:test:79.62.37.51
+DUP guest:guest:79.62.37.51
+DUP admin:password:79.62.37.51
+DUP ubnt:ubnt:79.62.37.51
+DUP user:user:79.62.37.51
+DUP admin:1234:79.62.37.51
+admin:admin:79.62.37.51
+admin:admin:218.92.254.2
+admin:admin:221.226.7.27
+DUP support:support:213.89.243.124
+DUP mapp:test:213.89.243.124
+DUP map:test:213.89.243.124
+DUP logger:test:213.89.243.124
+DUP sk:test:213.89.243.124
+DUP git:test:213.89.243.124
+DUP test:test:213.89.243.124
+DUP guest:guest:213.89.243.124
+DUP admin:password:213.89.243.124
+DUP ubnt:ubnt:213.89.243.124
+DUP user:user:213.89.243.124
+DUP admin:1234:213.89.243.124
+DUP admin:admin:213.89.243.124
+root:root:213.89.243.124
+DUP support:support:93.62.30.200
+DUP mapp:test:93.62.30.200
+DUP map:test:93.62.30.200
+DUP logger:test:93.62.30.200
+DUP sk:test:93.62.30.200
+DUP git:test:93.62.30.200
+DUP test:test:93.62.30.200
+DUP guest:guest:93.62.30.200
+DUP admin:password:93.62.30.200
+DUP ubnt:ubnt:93.62.30.200
+DUP user:user:93.62.30.200
+DUP admin:1234:93.62.30.200
+DUP admin:admin:93.62.30.200
+root:root:93.62.30.200
+DUP support:support:41.187.17.225
+DUP mapp:test:41.187.17.225
+DUP map:test:41.187.17.225
+DUP logger:test:41.187.17.225
+DUP sk:test:41.187.17.225
+DUP git:test:41.187.17.225
+DUP test:test:41.187.17.225
+DUP guest:guest:41.187.17.225
+DUP admin:password:41.187.17.225
+DUP ubnt:ubnt:41.187.17.225
+DUP user:user:41.187.17.225
+DUP admin:1234:41.187.17.225
+DUP admin:admin:41.187.17.225
+root:root:41.187.17.225
+DUP support:support:85.45.220.115
+DUP mapp:test:85.45.220.115
+DUP map:test:85.45.220.115
+DUP logger:test:85.45.220.115
+DUP sk:test:85.45.220.115
+DUP git:test:85.45.220.115
+DUP test:test:85.45.220.115
+DUP guest:guest:85.45.220.115
+DUP admin:password:85.45.220.115
+DUP ubnt:ubnt:85.45.220.115
+DUP user:user:85.45.220.115
+DUP admin:1234:85.45.220.115
+DUP admin:admin:85.45.220.115
+root:root:85.45.220.115
+DUP support:support:78.4.203.2
+DUP mapp:test:78.4.203.2
+DUP map:test:78.4.203.2
+DUP logger:test:78.4.203.2
+DUP sk:test:78.4.203.2
+DUP git:test:78.4.203.2
+DUP test:test:78.4.203.2
+DUP guest:guest:78.4.203.2
+DUP admin:password:78.4.203.2
+DUP ubnt:ubnt:78.4.203.2
+DUP user:user:78.4.203.2
+DUP admin:1234:78.4.203.2
+DUP admin:admin:78.4.203.2
+root:root:78.4.203.2
+admin:1234:184.179.85.235
+DUP support:support:5.89.45.105
+DUP mapp:test:5.89.45.105
+DUP map:test:5.89.45.105
+DUP logger:test:5.89.45.105
+DUP sk:test:5.89.45.105
+DUP git:test:5.89.45.105
+DUP test:test:5.89.45.105
+DUP guest:guest:5.89.45.105
+DUP admin:password:5.89.45.105
+DUP ubnt:ubnt:5.89.45.105
+DUP user:user:5.89.45.105
+DUP admin:1234:5.89.45.105
+DUP admin:admin:5.89.45.105
+root:root:5.89.45.105
+admin:admin:39.78.245.28
+DUP support:support:95.240.70.65
+DUP mapp:test:95.240.70.65
+DUP map:test:95.240.70.65
+DUP logger:test:95.240.70.65
+DUP sk:test:95.240.70.65
+DUP git:test:95.240.70.65
+DUP test:test:95.240.70.65
+DUP guest:guest:95.240.70.65
+DUP admin:password:95.240.70.65
+DUP ubnt:ubnt:95.240.70.65
+DUP user:user:95.240.70.65
+DUP admin:1234:95.240.70.65
+admin:admin:95.240.70.65
+user:user:1.164.132.166
+admin:admin:103.208.75.18
+admin:admin:41.134.37.225
+admin:admin:43.231.132.91
+admin:admin:117.159.88.69
+DUP support:support:213.113.9.150
+DUP mapp:test:213.113.9.150
+DUP map:test:213.113.9.150
+DUP logger:test:213.113.9.150
+DUP sk:test:213.113.9.150
+DUP git:test:213.113.9.150
+DUP test:test:213.113.9.150
+DUP guest:guest:213.113.9.150
+DUP admin:password:213.113.9.150
+DUP ubnt:ubnt:213.113.9.150
+DUP user:user:213.113.9.150
+DUP admin:1234:213.113.9.150
+DUP admin:admin:213.113.9.150
+root:root:213.113.9.150
+admin:admin:50.96.80.22
+DUP admin:password:103.117.153.67
+DUP admin:1234:103.117.153.67
+admin:admin:103.117.153.67
+DUP support:support:95.242.93.139
+DUP mapp:test:95.242.93.139
+DUP map:test:95.242.93.139
+DUP logger:test:95.242.93.139
+DUP sk:test:95.242.93.139
+DUP git:test:95.242.93.139
+DUP test:test:95.242.93.139
+DUP guest:guest:95.242.93.139
+DUP admin:password:95.242.93.139
+DUP ubnt:ubnt:95.242.93.139
+DUP user:user:95.242.93.139
+DUP admin:1234:95.242.93.139
+admin:admin:95.242.93.139
+admin:admin:111.12.57.59
+DUP support:support:213.137.39.232
+DUP mapp:test:213.137.39.232
+DUP map:test:213.137.39.232
+DUP logger:test:213.137.39.232
+DUP sk:test:213.137.39.232
+DUP git:test:213.137.39.232
+DUP test:test:213.137.39.232
+DUP guest:guest:213.137.39.232
+DUP admin:password:213.137.39.232
+DUP ubnt:ubnt:213.137.39.232
+DUP user:user:213.137.39.232
+DUP admin:1234:213.137.39.232
+DUP admin:admin:213.137.39.232
+root:root:213.137.39.232
+admin:admin:119.2.119.110
+admin:admin:31.223.249.118
+DUP support:support:78.4.110.46
+DUP mapp:test:78.4.110.46
+DUP map:test:78.4.110.46
+DUP logger:test:78.4.110.46
+DUP sk:test:78.4.110.46
+DUP git:test:78.4.110.46
+DUP test:test:78.4.110.46
+DUP guest:guest:78.4.110.46
+DUP admin:password:78.4.110.46
+DUP ubnt:ubnt:78.4.110.46
+DUP user:user:78.4.110.46
+DUP admin:1234:78.4.110.46
+DUP admin:admin:78.4.110.46
+root:root:78.4.110.46
+DUP support:support:80.18.15.31
+DUP mapp:test:80.18.15.31
+DUP map:test:80.18.15.31
+DUP logger:test:80.18.15.31
+DUP sk:test:80.18.15.31
+DUP git:test:80.18.15.31
+DUP test:test:80.18.15.31
+DUP guest:guest:80.18.15.31
+DUP admin:password:80.18.15.31
+DUP ubnt:ubnt:80.18.15.31
+DUP user:user:80.18.15.31
+DUP admin:1234:80.18.15.31
+admin:admin:80.18.15.31
+DUP support:support:193.150.202.6
+DUP mapp:test:193.150.202.6
+DUP map:test:193.150.202.6
+DUP logger:test:193.150.202.6
+DUP sk:test:193.150.202.6
+DUP git:test:193.150.202.6
+DUP test:test:193.150.202.6
+DUP guest:guest:193.150.202.6
+DUP admin:password:193.150.202.6
+DUP ubnt:ubnt:193.150.202.6
+DUP user:user:193.150.202.6
+DUP admin:1234:193.150.202.6
+DUP admin:admin:193.150.202.6
+root:root:193.150.202.6
+DUP ubnt:ubnt:200.160.125.246
+DUP admin:1234:200.160.125.246
+admin:admin:200.160.125.246
+admin:admin:112.36.27.91
+admin:admin:113.140.17.38
+admin:admin:115.69.249.163
+DUP support:support:213.89.243.101
+DUP mapp:test:213.89.243.101
+DUP map:test:213.89.243.101
+DUP logger:test:213.89.243.101
+DUP sk:test:213.89.243.101
+DUP git:test:213.89.243.101
+DUP test:test:213.89.243.101
+DUP guest:guest:213.89.243.101
+DUP admin:password:213.89.243.101
+DUP ubnt:ubnt:213.89.243.101
+DUP user:user:213.89.243.101
+DUP admin:1234:213.89.243.101
+DUP admin:admin:213.89.243.101
+root:root:213.89.243.101
+DUP support:support:93.40.19.91
+DUP mapp:test:93.40.19.91
+DUP map:test:93.40.19.91
+DUP logger:test:93.40.19.91
+DUP sk:test:93.40.19.91
+DUP git:test:93.40.19.91
+DUP test:test:93.40.19.91
+DUP guest:guest:93.40.19.91
+DUP admin:password:93.40.19.91
+DUP ubnt:ubnt:93.40.19.91
+DUP user:user:93.40.19.91
+DUP admin:1234:93.40.19.91
+DUP admin:admin:93.40.19.91
+root:root:93.40.19.91
+DUP support:support:85.39.195.254
+DUP mapp:test:85.39.195.254
+DUP map:test:85.39.195.254
+DUP logger:test:85.39.195.254
+DUP sk:test:85.39.195.254
+DUP git:test:85.39.195.254
+DUP test:test:85.39.195.254
+DUP guest:guest:85.39.195.254
+DUP admin:password:85.39.195.254
+DUP ubnt:ubnt:85.39.195.254
+DUP user:user:85.39.195.254
+DUP admin:1234:85.39.195.254
+admin:admin:85.39.195.254
+admin:admin:96.91.142.97
+admin:admin:220.171.100.62
+admin:admin:124.225.64.120
+DUP mapp:test:211.238.142.3
+DUP map:test:211.238.142.3
+DUP logger:test:211.238.142.3
+DUP sk:test:211.238.142.3
+DUP git:test:211.238.142.3
+test:test:211.238.142.3
+user:user:46.26.246.29
+admin:admin:122.155.202.129
+DUP support:support:213.112.207.250
+DUP mapp:test:213.112.207.250
+DUP map:test:213.112.207.250
+DUP logger:test:213.112.207.250
+DUP sk:test:213.112.207.250
+DUP git:test:213.112.207.250
+DUP test:test:213.112.207.250
+DUP guest:guest:213.112.207.250
+DUP admin:password:213.112.207.250
+DUP ubnt:ubnt:213.112.207.250
+DUP user:user:213.112.207.250
+DUP admin:1234:213.112.207.250
+DUP admin:admin:213.112.207.250
+root:root:213.112.207.250
+DUP admin:password:202.163.70.197
+DUP admin:1234:202.163.70.197
+admin:admin:202.163.70.197
+DUP support:support:194.71.114.8
+DUP mapp:test:194.71.114.8
+DUP map:test:194.71.114.8
+DUP logger:test:194.71.114.8
+DUP sk:test:194.71.114.8
+DUP git:test:194.71.114.8
+DUP test:test:194.71.114.8
+DUP guest:guest:194.71.114.8
+DUP admin:password:194.71.114.8
+DUP ubnt:ubnt:194.71.114.8
+DUP user:user:194.71.114.8
+DUP admin:1234:194.71.114.8
+DUP admin:admin:194.71.114.8
+root:root:194.71.114.8
+DUP support:support:37.114.138.128
+DUP mapp:test:37.114.138.128
+DUP map:test:37.114.138.128
+DUP logger:test:37.114.138.128
+DUP sk:test:37.114.138.128
+DUP git:test:37.114.138.128
+DUP test:test:37.114.138.128
+DUP guest:guest:37.114.138.128
+DUP admin:password:37.114.138.128
+DUP ubnt:ubnt:37.114.138.128
+DUP user:user:37.114.138.128
+DUP admin:1234:37.114.138.128
+DUP admin:admin:37.114.138.128
+root:root:37.114.138.128
+admin:1234:185.215.63.78
+admin:admin:75.76.80.222
+DUP support:support:79.2.229.165
+DUP mapp:test:79.2.229.165
+DUP map:test:79.2.229.165
+DUP logger:test:79.2.229.165
+DUP sk:test:79.2.229.165
+DUP git:test:79.2.229.165
+DUP test:test:79.2.229.165
+DUP guest:guest:79.2.229.165
+DUP admin:password:79.2.229.165
+DUP ubnt:ubnt:79.2.229.165
+DUP user:user:79.2.229.165
+DUP admin:1234:79.2.229.165
+admin:admin:79.2.229.165
+guest:guest:222.186.63.138
+admin:admin:103.242.237.242
+DUP support:support:37.114.133.220
+DUP mapp:test:37.114.133.220
+DUP map:test:37.114.133.220
+DUP logger:test:37.114.133.220
+DUP sk:test:37.114.133.220
+DUP git:test:37.114.133.220
+DUP test:test:37.114.133.220
+DUP guest:guest:37.114.133.220
+DUP admin:password:37.114.133.220
+DUP ubnt:ubnt:37.114.133.220
+DUP user:user:37.114.133.220
+DUP admin:1234:37.114.133.220
+DUP admin:admin:37.114.133.220
+root:root:37.114.133.220
+admin:admin:94.72.128.50
+admin:admin:151.237.193.246
+ubnt:ubnt:168.167.51.1
+admin:admin:222.74.107.14
+DUP support:support:78.5.36.46
+DUP mapp:test:78.5.36.46
+DUP map:test:78.5.36.46
+DUP logger:test:78.5.36.46
+DUP sk:test:78.5.36.46
+DUP git:test:78.5.36.46
+DUP test:test:78.5.36.46
+DUP guest:guest:78.5.36.46
+DUP admin:password:78.5.36.46
+DUP ubnt:ubnt:78.5.36.46
+DUP user:user:78.5.36.46
+DUP admin:1234:78.5.36.46
+DUP admin:admin:78.5.36.46
+root:root:78.5.36.46
+admin:admin:123.252.180.86
+ubnt:ubnt:66.96.204.164
+admin:admin:58.215.232.10
+DUP support:support:185.85.158.38
+DUP mapp:test:185.85.158.38
+DUP map:test:185.85.158.38
+DUP logger:test:185.85.158.38
+DUP sk:test:185.85.158.38
+DUP git:test:185.85.158.38
+DUP test:test:185.85.158.38
+DUP guest:guest:185.85.158.38
+DUP admin:password:185.85.158.38
+DUP ubnt:ubnt:185.85.158.38
+DUP user:user:185.85.158.38
+DUP admin:1234:185.85.158.38
+DUP admin:admin:185.85.158.38
+root:root:185.85.158.38
+admin:1234:203.200.40.46
+admin:admin:220.164.2.99
+admin:admin:24.192.156.1
+admin:admin:88.238.104.36
+admin:admin:90.147.105.11
+support:support:216.211.37.173
+DUP support:support:2.118.243.213
+DUP mapp:test:2.118.243.213
+DUP map:test:2.118.243.213
+DUP logger:test:2.118.243.213
+DUP sk:test:2.118.243.213
+DUP git:test:2.118.243.213
+DUP test:test:2.118.243.213
+DUP guest:guest:2.118.243.213
+DUP admin:password:2.118.243.213
+DUP ubnt:ubnt:2.118.243.213
+DUP user:user:2.118.243.213
+DUP admin:1234:2.118.243.213
+admin:admin:2.118.243.213
+DUP support:support:213.149.210.249
+DUP mapp:test:213.149.210.249
+DUP map:test:213.149.210.249
+DUP logger:test:213.149.210.249
+DUP sk:test:213.149.210.249
+DUP git:test:213.149.210.249
+DUP test:test:213.149.210.249
+DUP guest:guest:213.149.210.249
+DUP admin:password:213.149.210.249
+DUP ubnt:ubnt:213.149.210.249
+DUP user:user:213.149.210.249
+DUP admin:1234:213.149.210.249
+DUP admin:admin:213.149.210.249
+root:root:213.149.210.249
+admin:admin:58.57.185.93
+admin:admin:117.186.23.102
+ubnt:ubnt:207.144.62.170
+admin:admin:196.175.249.134
+admin:admin:122.180.99.28
+DUP support:support:89.97.108.123
+DUP mapp:test:89.97.108.123
+DUP map:test:89.97.108.123
+DUP logger:test:89.97.108.123
+DUP sk:test:89.97.108.123
+DUP git:test:89.97.108.123
+DUP test:test:89.97.108.123
+DUP guest:guest:89.97.108.123
+DUP admin:password:89.97.108.123
+DUP ubnt:ubnt:89.97.108.123
+DUP user:user:89.97.108.123
+DUP admin:1234:89.97.108.123
+DUP admin:admin:89.97.108.123
+root:root:89.97.108.123
+admin:admin:101.17.124.198
+admin:admin:207.255.204.41
+admin:admin:118.232.72.115
+DUP support:support:31.27.32.118
+DUP mapp:test:31.27.32.118
+DUP map:test:31.27.32.118
+DUP logger:test:31.27.32.118
+DUP sk:test:31.27.32.118
+DUP git:test:31.27.32.118
+DUP test:test:31.27.32.118
+DUP guest:guest:31.27.32.118
+DUP admin:password:31.27.32.118
+DUP ubnt:ubnt:31.27.32.118
+DUP user:user:31.27.32.118
+DUP admin:1234:31.27.32.118
+DUP admin:admin:31.27.32.118
+root:root:31.27.32.118
+admin:admin:117.159.9.74
+DUP support:support:213.89.207.83
+DUP mapp:test:213.89.207.83
+DUP map:test:213.89.207.83
+DUP logger:test:213.89.207.83
+DUP sk:test:213.89.207.83
+DUP git:test:213.89.207.83
+DUP test:test:213.89.207.83
+DUP guest:guest:213.89.207.83
+DUP admin:password:213.89.207.83
+DUP ubnt:ubnt:213.89.207.83
+DUP user:user:213.89.207.83
+DUP admin:1234:213.89.207.83
+DUP admin:admin:213.89.207.83
+root:root:213.89.207.83
+admin:admin:75.76.4.29
+DUP support:support:78.5.8.166
+DUP mapp:test:78.5.8.166
+DUP map:test:78.5.8.166
+DUP logger:test:78.5.8.166
+DUP sk:test:78.5.8.166
+DUP git:test:78.5.8.166
+DUP test:test:78.5.8.166
+DUP guest:guest:78.5.8.166
+DUP admin:password:78.5.8.166
+DUP ubnt:ubnt:78.5.8.166
+DUP user:user:78.5.8.166
+DUP admin:1234:78.5.8.166
+DUP admin:admin:78.5.8.166
+root:root:78.5.8.166
+DUP support:support:93.43.120.220
+DUP mapp:test:93.43.120.220
+DUP map:test:93.43.120.220
+DUP logger:test:93.43.120.220
+DUP sk:test:93.43.120.220
+DUP git:test:93.43.120.220
+DUP test:test:93.43.120.220
+DUP guest:guest:93.43.120.220
+DUP admin:password:93.43.120.220
+DUP ubnt:ubnt:93.43.120.220
+DUP user:user:93.43.120.220
+DUP admin:1234:93.43.120.220
+DUP admin:admin:93.43.120.220
+root:root:93.43.120.220
+admin:admin:61.182.121.90
+DUP support:support:41.33.47.233
+DUP mapp:test:41.33.47.233
+DUP map:test:41.33.47.233
+DUP logger:test:41.33.47.233
+DUP sk:test:41.33.47.233
+DUP git:test:41.33.47.233
+DUP test:test:41.33.47.233
+DUP guest:guest:41.33.47.233
+DUP admin:password:41.33.47.233
+DUP ubnt:ubnt:41.33.47.233
+DUP user:user:41.33.47.233
+DUP admin:1234:41.33.47.233
+DUP admin:admin:41.33.47.233
+root:root:41.33.47.233
+DUP support:support:196.219.227.193
+DUP mapp:test:196.219.227.193
+DUP map:test:196.219.227.193
+DUP logger:test:196.219.227.193
+DUP sk:test:196.219.227.193
+DUP git:test:196.219.227.193
+DUP test:test:196.219.227.193
+DUP guest:guest:196.219.227.193
+DUP admin:password:196.219.227.193
+DUP ubnt:ubnt:196.219.227.193
+DUP user:user:196.219.227.193
+DUP admin:1234:196.219.227.193
+DUP admin:admin:196.219.227.193
+root:root:196.219.227.193
+admin:admin:82.148.55.225
+test:test:14.142.188.139
+DUP support:support:62.94.208.242
+DUP mapp:test:62.94.208.242
+DUP map:test:62.94.208.242
+DUP logger:test:62.94.208.242
+DUP sk:test:62.94.208.242
+DUP git:test:62.94.208.242
+DUP test:test:62.94.208.242
+DUP guest:guest:62.94.208.242
+DUP admin:password:62.94.208.242
+DUP ubnt:ubnt:62.94.208.242
+DUP user:user:62.94.208.242
+DUP admin:1234:62.94.208.242
+DUP admin:admin:62.94.208.242
+root:root:62.94.208.242
+admin:admin:75.76.4.39
+admin:admin:61.160.81.62
+admin:admin:173.184.22.243
+DUP support:support:85.195.35.200
+DUP mapp:test:85.195.35.200
+DUP map:test:85.195.35.200
+DUP logger:test:85.195.35.200
+DUP sk:test:85.195.35.200
+DUP git:test:85.195.35.200
+DUP test:test:85.195.35.200
+DUP guest:guest:85.195.35.200
+DUP admin:password:85.195.35.200
+DUP ubnt:ubnt:85.195.35.200
+DUP user:user:85.195.35.200
+DUP admin:1234:85.195.35.200
+DUP admin:admin:85.195.35.200
+root:root:85.195.35.200
+admin:admin:217.133.29.81
+DUP support:support:41.33.34.81
+DUP mapp:test:41.33.34.81
+DUP map:test:41.33.34.81
+DUP logger:test:41.33.34.81
+DUP sk:test:41.33.34.81
+DUP git:test:41.33.34.81
+DUP test:test:41.33.34.81
+DUP guest:guest:41.33.34.81
+DUP admin:password:41.33.34.81
+DUP ubnt:ubnt:41.33.34.81
+DUP user:user:41.33.34.81
+DUP admin:1234:41.33.34.81
+DUP admin:admin:41.33.34.81
+root:root:41.33.34.81
+admin:admin:14.140.80.34
+admin:admin:75.76.4.173
+DUP ubnt:ubnt:217.108.42.93
+DUP user:user:217.108.42.93
+DUP admin:1234:217.108.42.93
+DUP admin:admin:217.108.42.93
+root:root:217.108.42.93
+admin:admin:103.61.103.2
+DUP mapp:test:1.209.97.169
+DUP map:test:1.209.97.169
+DUP logger:test:1.209.97.169
+DUP sk:test:1.209.97.169
+DUP git:test:1.209.97.169
+test:test:1.209.97.169
+admin:admin:98.16.190.30
+admin:1234:180.152.89.75
+admin:admin:180.100.242.134
+DUP admin:password:213.160.171.134
+DUP admin:1234:213.160.171.134
+admin:admin:213.160.171.134
+DUP support:support:89.96.67.230
+DUP mapp:test:89.96.67.230
+DUP map:test:89.96.67.230
+DUP logger:test:89.96.67.230
+DUP sk:test:89.96.67.230
+DUP git:test:89.96.67.230
+DUP test:test:89.96.67.230
+DUP guest:guest:89.96.67.230
+DUP admin:password:89.96.67.230
+DUP ubnt:ubnt:89.96.67.230
+DUP user:user:89.96.67.230
+DUP admin:1234:89.96.67.230
+DUP admin:admin:89.96.67.230
+root:root:89.96.67.230
+DUP support:support:37.114.185.121
+DUP mapp:test:37.114.185.121
+DUP map:test:37.114.185.121
+DUP logger:test:37.114.185.121
+DUP sk:test:37.114.185.121
+DUP git:test:37.114.185.121
+DUP test:test:37.114.185.121
+DUP guest:guest:37.114.185.121
+DUP admin:password:37.114.185.121
+DUP ubnt:ubnt:37.114.185.121
+DUP user:user:37.114.185.121
+DUP admin:1234:37.114.185.121
+DUP admin:admin:37.114.185.121
+root:root:37.114.185.121
+admin:admin:183.203.219.232
+DUP support:support:211.236.71.254
+DUP mapp:test:211.236.71.254
+DUP map:test:211.236.71.254
+DUP logger:test:211.236.71.254
+DUP sk:test:211.236.71.254
+DUP git:test:211.236.71.254
+DUP test:test:211.236.71.254
+DUP guest:guest:211.236.71.254
+DUP admin:password:211.236.71.254
+DUP ubnt:ubnt:211.236.71.254
+DUP user:user:211.236.71.254
+DUP admin:1234:211.236.71.254
+DUP admin:admin:211.236.71.254
+root:root:211.236.71.254
+admin:admin:122.15.196.195
+DUP support:support:216.158.109.34
+DUP mapp:test:216.158.109.34
+DUP map:test:216.158.109.34
+DUP logger:test:216.158.109.34
+DUP sk:test:216.158.109.34
+DUP git:test:216.158.109.34
+DUP test:test:216.158.109.34
+DUP guest:guest:216.158.109.34
+DUP admin:password:216.158.109.34
+DUP ubnt:ubnt:216.158.109.34
+DUP user:user:216.158.109.34
+DUP admin:1234:216.158.109.34
+DUP admin:admin:216.158.109.34
+root:root:216.158.109.34
+admin:admin:125.65.244.114
+admin:password:183.176.183.22
+admin:admin:182.71.105.42
+admin:admin:218.201.79.71
+admin:admin:110.145.120.127
+admin:admin:41.188.180.22
+admin:admin:220.180.110.144
+DUP support:support:83.251.158.109
+DUP mapp:test:83.251.158.109
+DUP map:test:83.251.158.109
+DUP logger:test:83.251.158.109
+DUP sk:test:83.251.158.109
+DUP git:test:83.251.158.109
+DUP test:test:83.251.158.109
+DUP guest:guest:83.251.158.109
+DUP admin:password:83.251.158.109
+DUP ubnt:ubnt:83.251.158.109
+DUP user:user:83.251.158.109
+DUP admin:1234:83.251.158.109
+DUP admin:admin:83.251.158.109
+root:root:83.251.158.109
+admin:admin:96.84.143.29
+admin:admin:177.36.166.224
+admin:admin:112.27.203.67
+test:test:218.204.106.132
+admin:admin:186.215.199.49
+test:test:162.242.134.254
+admin:admin:60.190.195.198
+DUP support:support:37.114.155.21
+DUP mapp:test:37.114.155.21
+DUP map:test:37.114.155.21
+DUP logger:test:37.114.155.21
+DUP sk:test:37.114.155.21
+DUP git:test:37.114.155.21
+DUP test:test:37.114.155.21
+DUP guest:guest:37.114.155.21
+DUP admin:password:37.114.155.21
+DUP ubnt:ubnt:37.114.155.21
+DUP user:user:37.114.155.21
+DUP admin:1234:37.114.155.21
+DUP admin:admin:37.114.155.21
+root:root:37.114.155.21
+admin:admin:223.68.2.133
+DUP support:support:101.230.220.20
+DUP mapp:test:101.230.220.20
+DUP map:test:101.230.220.20
+DUP logger:test:101.230.220.20
+DUP sk:test:101.230.220.20
+DUP git:test:101.230.220.20
+DUP test:test:101.230.220.20
+DUP guest:guest:101.230.220.20
+DUP admin:password:101.230.220.20
+DUP ubnt:ubnt:101.230.220.20
+DUP user:user:101.230.220.20
+DUP admin:1234:101.230.220.20
+DUP admin:admin:101.230.220.20
+root:root:101.230.220.20
+admin:admin:61.178.118.172
+admin:1234:76.16.118.141
+admin:admin:103.109.109.92
+DUP support:support:213.100.220.160
+DUP mapp:test:213.100.220.160
+DUP map:test:213.100.220.160
+DUP logger:test:213.100.220.160
+DUP sk:test:213.100.220.160
+DUP git:test:213.100.220.160
+DUP test:test:213.100.220.160
+DUP guest:guest:213.100.220.160
+DUP admin:password:213.100.220.160
+DUP ubnt:ubnt:213.100.220.160
+DUP user:user:213.100.220.160
+DUP admin:1234:213.100.220.160
+DUP admin:admin:213.100.220.160
+root:root:213.100.220.160
+admin:admin:83.110.104.188
+ubnt:ubnt:115.75.137.123
+admin:admin:182.74.77.82
+admin:admin:183.236.191.130
+admin:admin:113.87.160.240
+admin:admin:61.190.32.210
+admin:admin:219.142.139.227
+admin:admin:222.74.162.98
+admin:admin:180.166.82.154
+admin:admin:114.249.212.103
+admin:1234:90.63.189.59
+DUP support:support:196.219.227.97
+DUP mapp:test:196.219.227.97
+DUP map:test:196.219.227.97
+DUP logger:test:196.219.227.97
+DUP sk:test:196.219.227.97
+DUP git:test:196.219.227.97
+DUP test:test:196.219.227.97
+DUP guest:guest:196.219.227.97
+DUP admin:password:196.219.227.97
+DUP ubnt:ubnt:196.219.227.97
+DUP user:user:196.219.227.97
+DUP admin:1234:196.219.227.97
+DUP admin:admin:196.219.227.97
+root:root:196.219.227.97
+DUP support:support:85.224.40.37
+DUP mapp:test:85.224.40.37
+DUP map:test:85.224.40.37
+DUP logger:test:85.224.40.37
+DUP sk:test:85.224.40.37
+DUP git:test:85.224.40.37
+DUP test:test:85.224.40.37
+DUP guest:guest:85.224.40.37
+DUP admin:password:85.224.40.37
+DUP ubnt:ubnt:85.224.40.37
+DUP user:user:85.224.40.37
+DUP admin:1234:85.224.40.37
+DUP admin:admin:85.224.40.37
+root:root:85.224.40.37
+DUP support:support:93.61.143.112
+DUP mapp:test:93.61.143.112
+DUP map:test:93.61.143.112
+DUP logger:test:93.61.143.112
+DUP sk:test:93.61.143.112
+DUP git:test:93.61.143.112
+DUP test:test:93.61.143.112
+DUP guest:guest:93.61.143.112
+DUP admin:password:93.61.143.112
+DUP ubnt:ubnt:93.61.143.112
+DUP user:user:93.61.143.112
+DUP admin:1234:93.61.143.112
+DUP admin:admin:93.61.143.112
+root:root:93.61.143.112
+DUP support:support:131.188.46.14
+DUP test:test:131.188.46.14
+DUP guest:guest:131.188.46.14
+DUP admin:password:131.188.46.14
+DUP user:user:131.188.46.14
+DUP admin:1234:131.188.46.14
+DUP admin:admin:131.188.46.14
+root:root:131.188.46.14
+DUP support:support:41.33.186.1
+DUP mapp:test:41.33.186.1
+DUP map:test:41.33.186.1
+DUP logger:test:41.33.186.1
+DUP sk:test:41.33.186.1
+DUP git:test:41.33.186.1
+DUP test:test:41.33.186.1
+DUP guest:guest:41.33.186.1
+DUP admin:password:41.33.186.1
+DUP ubnt:ubnt:41.33.186.1
+DUP user:user:41.33.186.1
+DUP admin:1234:41.33.186.1
+DUP admin:admin:41.33.186.1
+root:root:41.33.186.1
+DUP support:support:89.96.214.85
+DUP mapp:test:89.96.214.85
+DUP map:test:89.96.214.85
+DUP logger:test:89.96.214.85
+DUP sk:test:89.96.214.85
+DUP git:test:89.96.214.85
+DUP test:test:89.96.214.85
+DUP guest:guest:89.96.214.85
+DUP admin:password:89.96.214.85
+DUP ubnt:ubnt:89.96.214.85
+DUP user:user:89.96.214.85
+DUP admin:1234:89.96.214.85
+DUP admin:admin:89.96.214.85
+root:root:89.96.214.85
+admin:admin:112.27.225.57
+DUP support:support:210.5.44.89
+DUP mapp:test:210.5.44.89
+DUP map:test:210.5.44.89
+DUP logger:test:210.5.44.89
+DUP sk:test:210.5.44.89
+DUP git:test:210.5.44.89
+DUP test:test:210.5.44.89
+DUP guest:guest:210.5.44.89
+DUP admin:password:210.5.44.89
+DUP ubnt:ubnt:210.5.44.89
+DUP user:user:210.5.44.89
+DUP admin:1234:210.5.44.89
+DUP admin:admin:210.5.44.89
+root:root:210.5.44.89
+ubnt:ubnt:168.167.91.153
+DUP admin:password:77.39.15.181
+DUP admin:1234:77.39.15.181
+admin:admin:77.39.15.181
+admin:admin:210.22.125.134
+admin:admin:1.6.81.157
+admin:admin:59.90.123.29
+user:user:129.126.222.94
+DUP support:support:62.94.78.81
+DUP mapp:test:62.94.78.81
+DUP map:test:62.94.78.81
+DUP logger:test:62.94.78.81
+DUP sk:test:62.94.78.81
+DUP git:test:62.94.78.81
+DUP test:test:62.94.78.81
+DUP guest:guest:62.94.78.81
+DUP admin:password:62.94.78.81
+DUP ubnt:ubnt:62.94.78.81
+DUP user:user:62.94.78.81
+DUP admin:1234:62.94.78.81
+DUP admin:admin:62.94.78.81
+root:root:62.94.78.81
+admin:admin:218.61.236.14
+DUP support:support:95.241.135.198
+DUP mapp:test:95.241.135.198
+DUP map:test:95.241.135.198
+DUP logger:test:95.241.135.198
+DUP sk:test:95.241.135.198
+DUP git:test:95.241.135.198
+DUP test:test:95.241.135.198
+DUP guest:guest:95.241.135.198
+DUP admin:password:95.241.135.198
+DUP ubnt:ubnt:95.241.135.198
+DUP user:user:95.241.135.198
+DUP admin:1234:95.241.135.198
+admin:admin:95.241.135.198
+DUP support:support:85.18.67.63
+DUP mapp:test:85.18.67.63
+DUP map:test:85.18.67.63
+DUP logger:test:85.18.67.63
+DUP sk:test:85.18.67.63
+DUP git:test:85.18.67.63
+DUP test:test:85.18.67.63
+DUP guest:guest:85.18.67.63
+DUP admin:password:85.18.67.63
+DUP ubnt:ubnt:85.18.67.63
+DUP user:user:85.18.67.63
+DUP admin:1234:85.18.67.63
+DUP admin:admin:85.18.67.63
+root:root:85.18.67.63
+DUP support:support:93.55.168.78
+DUP mapp:test:93.55.168.78
+DUP map:test:93.55.168.78
+DUP logger:test:93.55.168.78
+DUP sk:test:93.55.168.78
+DUP git:test:93.55.168.78
+DUP test:test:93.55.168.78
+DUP guest:guest:93.55.168.78
+DUP admin:password:93.55.168.78
+DUP ubnt:ubnt:93.55.168.78
+DUP user:user:93.55.168.78
+DUP admin:1234:93.55.168.78
+DUP admin:admin:93.55.168.78
+root:root:93.55.168.78
+admin:admin:174.131.6.209
+admin:admin:121.150.98.40
+admin:admin:222.179.126.77
+admin:admin:122.170.111.145
+DUP admin:password:122.102.28.184
+DUP admin:1234:122.102.28.184
+admin:admin:122.102.28.184
+DUP support:support:213.114.207.27
+DUP mapp:test:213.114.207.27
+DUP map:test:213.114.207.27
+DUP logger:test:213.114.207.27
+DUP sk:test:213.114.207.27
+DUP git:test:213.114.207.27
+DUP test:test:213.114.207.27
+DUP guest:guest:213.114.207.27
+DUP admin:password:213.114.207.27
+DUP ubnt:ubnt:213.114.207.27
+DUP user:user:213.114.207.27
+DUP admin:1234:213.114.207.27
+DUP admin:admin:213.114.207.27
+root:root:213.114.207.27
+ubnt:ubnt:158.140.138.187
+test:test:54.209.27.80
+admin:admin:121.158.14.12
+admin:admin:36.67.252.19
+DUP support:support:93.61.60.149
+DUP mapp:test:93.61.60.149
+DUP map:test:93.61.60.149
+DUP logger:test:93.61.60.149
+DUP sk:test:93.61.60.149
+DUP git:test:93.61.60.149
+DUP test:test:93.61.60.149
+DUP guest:guest:93.61.60.149
+DUP admin:password:93.61.60.149
+DUP ubnt:ubnt:93.61.60.149
+DUP user:user:93.61.60.149
+DUP admin:1234:93.61.60.149
+DUP admin:admin:93.61.60.149
+root:root:93.61.60.149
+admin:admin:27.4.208.55
+guest:guest:58.56.145.94
+admin:admin:116.87.169.45
+admin:admin:60.175.209.77
+DUP support:support:78.5.6.74
+DUP mapp:test:78.5.6.74
+DUP map:test:78.5.6.74
+DUP logger:test:78.5.6.74
+DUP sk:test:78.5.6.74
+DUP git:test:78.5.6.74
+DUP test:test:78.5.6.74
+DUP guest:guest:78.5.6.74
+DUP admin:password:78.5.6.74
+DUP ubnt:ubnt:78.5.6.74
+DUP user:user:78.5.6.74
+DUP admin:1234:78.5.6.74
+DUP admin:admin:78.5.6.74
+root:root:78.5.6.74
+admin:admin:115.160.0.181
+admin:admin:202.176.81.181
+admin:admin:181.75.202.170
+admin:admin:182.247.101.46
+admin:admin:40.131.191.79
+DUP support:support:37.206.183.153
+DUP mapp:test:37.206.183.153
+DUP map:test:37.206.183.153
+DUP logger:test:37.206.183.153
+DUP sk:test:37.206.183.153
+DUP git:test:37.206.183.153
+DUP test:test:37.206.183.153
+DUP guest:guest:37.206.183.153
+DUP admin:password:37.206.183.153
+DUP ubnt:ubnt:37.206.183.153
+DUP user:user:37.206.183.153
+DUP admin:1234:37.206.183.153
+admin:admin:37.206.183.153
+admin:admin:111.53.57.50
+admin:1234:95.9.163.155
+user:user:163.139.219.183
+root:root:166.155.172.252
+admin:admin:115.248.54.129
+DUP support:support:217.59.140.69
+DUP mapp:test:217.59.140.69
+DUP map:test:217.59.140.69
+DUP logger:test:217.59.140.69
+DUP sk:test:217.59.140.69
+DUP git:test:217.59.140.69
+DUP test:test:217.59.140.69
+DUP guest:guest:217.59.140.69
+DUP admin:password:217.59.140.69
+DUP ubnt:ubnt:217.59.140.69
+DUP user:user:217.59.140.69
+DUP admin:1234:217.59.140.69
+admin:admin:217.59.140.69
+DUP ubnt:ubnt:200.89.95.33
+DUP user:user:200.89.95.33
+DUP admin:1234:200.89.95.33
+DUP admin:admin:200.89.95.33
+root:root:200.89.95.33
+admin:admin:85.105.5.173
+admin:admin:182.137.60.163
+admin:admin:59.96.189.188
+admin:admin:182.73.33.101
+admin:admin:59.162.21.181
+admin:admin:218.25.36.229
+admin:admin:112.11.254.194
+DUP support:support:93.33.251.1
+DUP mapp:test:93.33.251.1
+DUP map:test:93.33.251.1
+DUP logger:test:93.33.251.1
+DUP sk:test:93.33.251.1
+DUP git:test:93.33.251.1
+DUP test:test:93.33.251.1
+DUP guest:guest:93.33.251.1
+DUP admin:password:93.33.251.1
+DUP ubnt:ubnt:93.33.251.1
+DUP user:user:93.33.251.1
+DUP admin:1234:93.33.251.1
+DUP admin:admin:93.33.251.1
+root:root:93.33.251.1
+admin:password:153.195.78.249
+admin:admin:114.143.133.99
+admin:admin:41.78.209.106
+DUP support:support:193.150.252.67
+DUP mapp:test:193.150.252.67
+DUP map:test:193.150.252.67
+DUP logger:test:193.150.252.67
+DUP sk:test:193.150.252.67
+DUP git:test:193.150.252.67
+DUP test:test:193.150.252.67
+DUP guest:guest:193.150.252.67
+DUP admin:password:193.150.252.67
+DUP ubnt:ubnt:193.150.252.67
+DUP user:user:193.150.252.67
+DUP admin:1234:193.150.252.67
+DUP admin:admin:193.150.252.67
+root:root:193.150.252.67
+user:user:176.111.66.32
+admin:password:180.16.164.39
+admin:admin:186.215.198.137
+admin:1234:117.56.240.169
+admin:admin:124.116.41.138
+admin:admin:89.215.236.120
+DUP support:support:151.177.6.146
+DUP mapp:test:151.177.6.146
+DUP map:test:151.177.6.146
+DUP logger:test:151.177.6.146
+DUP sk:test:151.177.6.146
+DUP git:test:151.177.6.146
+DUP test:test:151.177.6.146
+DUP guest:guest:151.177.6.146
+DUP admin:password:151.177.6.146
+DUP ubnt:ubnt:151.177.6.146
+DUP user:user:151.177.6.146
+DUP admin:1234:151.177.6.146
+DUP admin:admin:151.177.6.146
+root:root:151.177.6.146
+admin:admin:84.242.109.61
+admin:admin:122.224.243.242
+DUP support:support:193.150.202.205
+DUP mapp:test:193.150.202.205
+DUP map:test:193.150.202.205
+DUP logger:test:193.150.202.205
+DUP sk:test:193.150.202.205
+DUP git:test:193.150.202.205
+DUP test:test:193.150.202.205
+DUP guest:guest:193.150.202.205
+DUP admin:password:193.150.202.205
+DUP ubnt:ubnt:193.150.202.205
+DUP user:user:193.150.202.205
+DUP admin:1234:193.150.202.205
+DUP admin:admin:193.150.202.205
+root:root:193.150.202.205
+admin:admin:103.216.237.123
+admin:admin:122.227.78.74
+DUP guest:guest:218.25.31.150
+admin:admin:218.25.31.150
+admin:admin:203.92.63.240
+DUP support:support:93.61.60.64
+DUP mapp:test:93.61.60.64
+DUP map:test:93.61.60.64
+DUP logger:test:93.61.60.64
+DUP sk:test:93.61.60.64
+DUP git:test:93.61.60.64
+DUP test:test:93.61.60.64
+DUP guest:guest:93.61.60.64
+DUP admin:password:93.61.60.64
+DUP ubnt:ubnt:93.61.60.64
+DUP user:user:93.61.60.64
+DUP admin:1234:93.61.60.64
+DUP admin:admin:93.61.60.64
+root:root:93.61.60.64
+ubnt:ubnt:24.70.205.239
+admin:admin:122.165.223.212
+admin:admin:58.220.245.146
+DUP support:support:31.27.43.143
+DUP mapp:test:31.27.43.143
+DUP map:test:31.27.43.143
+DUP logger:test:31.27.43.143
+DUP sk:test:31.27.43.143
+DUP git:test:31.27.43.143
+DUP test:test:31.27.43.143
+DUP guest:guest:31.27.43.143
+DUP admin:password:31.27.43.143
+DUP ubnt:ubnt:31.27.43.143
+DUP user:user:31.27.43.143
+DUP admin:1234:31.27.43.143
+DUP admin:admin:31.27.43.143
+root:root:31.27.43.143
+admin:admin:211.23.162.22
+admin:admin:218.73.96.122
+admin:admin:116.72.151.122
+admin:admin:118.182.20.119
+DUP support:support:217.139.187.1
+DUP mapp:test:217.139.187.1
+DUP map:test:217.139.187.1
+DUP logger:test:217.139.187.1
+DUP sk:test:217.139.187.1
+DUP git:test:217.139.187.1
+DUP test:test:217.139.187.1
+DUP guest:guest:217.139.187.1
+DUP admin:password:217.139.187.1
+DUP ubnt:ubnt:217.139.187.1
+DUP user:user:217.139.187.1
+DUP admin:1234:217.139.187.1
+DUP admin:admin:217.139.187.1
+root:root:217.139.187.1
+admin:admin:222.209.92.121
+admin:admin:120.199.126.136
+DUP support:support:80.18.14.127
+DUP mapp:test:80.18.14.127
+DUP map:test:80.18.14.127
+DUP logger:test:80.18.14.127
+DUP sk:test:80.18.14.127
+DUP git:test:80.18.14.127
+DUP test:test:80.18.14.127
+DUP guest:guest:80.18.14.127
+DUP admin:password:80.18.14.127
+DUP ubnt:ubnt:80.18.14.127
+DUP user:user:80.18.14.127
+DUP admin:1234:80.18.14.127
+admin:admin:80.18.14.127
+DUP support:support:93.42.167.185
+DUP mapp:test:93.42.167.185
+DUP map:test:93.42.167.185
+DUP logger:test:93.42.167.185
+DUP sk:test:93.42.167.185
+DUP git:test:93.42.167.185
+DUP test:test:93.42.167.185
+DUP guest:guest:93.42.167.185
+DUP admin:password:93.42.167.185
+DUP ubnt:ubnt:93.42.167.185
+DUP user:user:93.42.167.185
+DUP admin:1234:93.42.167.185
+DUP admin:admin:93.42.167.185
+root:root:93.42.167.185
+root:root:110.172.163.27
+admin:admin:203.122.29.132
+admin:admin:220.84.187.202
+DUP support:support:188.11.58.234
+DUP mapp:test:188.11.58.234
+DUP map:test:188.11.58.234
+DUP logger:test:188.11.58.234
+DUP sk:test:188.11.58.234
+DUP git:test:188.11.58.234
+DUP test:test:188.11.58.234
+DUP guest:guest:188.11.58.234
+DUP admin:password:188.11.58.234
+DUP ubnt:ubnt:188.11.58.234
+DUP user:user:188.11.58.234
+DUP admin:1234:188.11.58.234
+admin:admin:188.11.58.234
+admin:1234:58.37.143.98
+DUP support:support:79.1.88.173
+DUP mapp:test:79.1.88.173
+DUP map:test:79.1.88.173
+DUP logger:test:79.1.88.173
+DUP sk:test:79.1.88.173
+DUP git:test:79.1.88.173
+DUP test:test:79.1.88.173
+DUP guest:guest:79.1.88.173
+DUP admin:password:79.1.88.173
+DUP ubnt:ubnt:79.1.88.173
+DUP user:user:79.1.88.173
+DUP admin:1234:79.1.88.173
+admin:admin:79.1.88.173
+DUP support:support:83.254.224.166
+DUP mapp:test:83.254.224.166
+DUP map:test:83.254.224.166
+DUP logger:test:83.254.224.166
+DUP sk:test:83.254.224.166
+DUP git:test:83.254.224.166
+DUP test:test:83.254.224.166
+DUP guest:guest:83.254.224.166
+DUP admin:password:83.254.224.166
+DUP ubnt:ubnt:83.254.224.166
+DUP user:user:83.254.224.166
+DUP admin:1234:83.254.224.166
+DUP admin:admin:83.254.224.166
+root:root:83.254.224.166
+DUP support:support:41.33.148.177
+DUP mapp:test:41.33.148.177
+DUP map:test:41.33.148.177
+DUP logger:test:41.33.148.177
+DUP sk:test:41.33.148.177
+DUP git:test:41.33.148.177
+DUP test:test:41.33.148.177
+DUP guest:guest:41.33.148.177
+DUP admin:password:41.33.148.177
+DUP ubnt:ubnt:41.33.148.177
+DUP user:user:41.33.148.177
+DUP admin:1234:41.33.148.177
+DUP admin:admin:41.33.148.177
+root:root:41.33.148.177
+root:root:200.135.0.90
+admin:admin:59.145.218.182
+admin:admin:182.72.97.158
+admin:admin:185.108.83.138
+DUP support:support:41.33.143.33
+DUP mapp:test:41.33.143.33
+DUP map:test:41.33.143.33
+DUP logger:test:41.33.143.33
+DUP sk:test:41.33.143.33
+DUP git:test:41.33.143.33
+DUP test:test:41.33.143.33
+DUP guest:guest:41.33.143.33
+DUP admin:password:41.33.143.33
+DUP ubnt:ubnt:41.33.143.33
+DUP user:user:41.33.143.33
+DUP admin:1234:41.33.143.33
+DUP admin:admin:41.33.143.33
+root:root:41.33.143.33
+admin:admin:60.174.118.26
+ubnt:ubnt:103.77.229.145
+root:root:115.78.225.211
+user:user:61.231.164.9
+DUP test:test:106.75.176.21
+DUP admin:password:106.75.176.21
+DUP admin:1234:106.75.176.21
+DUP admin:admin:106.75.176.21
+root:root:106.75.176.21
+admin:admin:36.89.116.133
+admin:admin:203.151.43.151
+admin:admin:116.75.18.248
+DUP support:support:83.226.44.236
+DUP mapp:test:83.226.44.236
+DUP map:test:83.226.44.236
+DUP logger:test:83.226.44.236
+DUP sk:test:83.226.44.236
+DUP git:test:83.226.44.236
+DUP test:test:83.226.44.236
+DUP guest:guest:83.226.44.236
+DUP admin:password:83.226.44.236
+DUP ubnt:ubnt:83.226.44.236
+DUP user:user:83.226.44.236
+DUP admin:1234:83.226.44.236
+DUP admin:admin:83.226.44.236
+root:root:83.226.44.236
+ubnt:ubnt:83.209.114.43
+DUP support:support:93.51.182.9
+DUP mapp:test:93.51.182.9
+DUP map:test:93.51.182.9
+DUP logger:test:93.51.182.9
+DUP sk:test:93.51.182.9
+DUP git:test:93.51.182.9
+DUP test:test:93.51.182.9
+DUP guest:guest:93.51.182.9
+DUP admin:password:93.51.182.9
+DUP ubnt:ubnt:93.51.182.9
+DUP user:user:93.51.182.9
+DUP admin:1234:93.51.182.9
+DUP admin:admin:93.51.182.9
+root:root:93.51.182.9
+DUP support:support:31.163.137.32
+user:user:31.163.137.32
+admin:admin:221.178.176.184
+DUP support:support:139.190.244.133
+DUP mapp:test:139.190.244.133
+DUP map:test:139.190.244.133
+DUP logger:test:139.190.244.133
+DUP sk:test:139.190.244.133
+DUP git:test:139.190.244.133
+DUP test:test:139.190.244.133
+DUP guest:guest:139.190.244.133
+DUP admin:password:139.190.244.133
+DUP ubnt:ubnt:139.190.244.133
+DUP user:user:139.190.244.133
+DUP admin:1234:139.190.244.133
+DUP admin:admin:139.190.244.133
+root:root:139.190.244.133
+DUP support:support:213.89.19.235
+DUP mapp:test:213.89.19.235
+DUP map:test:213.89.19.235
+DUP logger:test:213.89.19.235
+DUP sk:test:213.89.19.235
+DUP git:test:213.89.19.235
+DUP test:test:213.89.19.235
+DUP guest:guest:213.89.19.235
+DUP admin:password:213.89.19.235
+DUP ubnt:ubnt:213.89.19.235
+DUP user:user:213.89.19.235
+DUP admin:1234:213.89.19.235
+DUP admin:admin:213.89.19.235
+root:root:213.89.19.235
+admin:admin:40.142.147.144
+admin:admin:220.164.2.61
+DUP support:support:93.54.7.252
+DUP mapp:test:93.54.7.252
+DUP map:test:93.54.7.252
+DUP logger:test:93.54.7.252
+DUP sk:test:93.54.7.252
+DUP git:test:93.54.7.252
+DUP test:test:93.54.7.252
+DUP guest:guest:93.54.7.252
+DUP admin:password:93.54.7.252
+DUP ubnt:ubnt:93.54.7.252
+DUP user:user:93.54.7.252
+DUP admin:1234:93.54.7.252
+DUP admin:admin:93.54.7.252
+root:root:93.54.7.252
+admin:admin:121.20.205.116
+DUP support:support:62.170.1.86
+DUP mapp:test:62.170.1.86
+DUP map:test:62.170.1.86
+DUP logger:test:62.170.1.86
+DUP sk:test:62.170.1.86
+DUP git:test:62.170.1.86
+DUP test:test:62.170.1.86
+DUP guest:guest:62.170.1.86
+DUP admin:password:62.170.1.86
+DUP ubnt:ubnt:62.170.1.86
+DUP user:user:62.170.1.86
+DUP admin:1234:62.170.1.86
+admin:admin:62.170.1.86
+user:user:111.249.173.126
+DUP support:support:2.117.130.9
+DUP mapp:test:2.117.130.9
+DUP map:test:2.117.130.9
+DUP logger:test:2.117.130.9
+DUP sk:test:2.117.130.9
+DUP git:test:2.117.130.9
+DUP test:test:2.117.130.9
+DUP guest:guest:2.117.130.9
+DUP admin:password:2.117.130.9
+DUP ubnt:ubnt:2.117.130.9
+DUP user:user:2.117.130.9
+DUP admin:1234:2.117.130.9
+admin:admin:2.117.130.9
+DUP support:support:41.33.229.41
+DUP mapp:test:41.33.229.41
+DUP map:test:41.33.229.41
+DUP logger:test:41.33.229.41
+DUP sk:test:41.33.229.41
+DUP git:test:41.33.229.41
+DUP test:test:41.33.229.41
+DUP guest:guest:41.33.229.41
+DUP admin:password:41.33.229.41
+DUP ubnt:ubnt:41.33.229.41
+DUP user:user:41.33.229.41
+DUP admin:1234:41.33.229.41
+DUP admin:admin:41.33.229.41
+root:root:41.33.229.41
+admin:admin:58.57.214.158
+admin:password:59.51.150.48
+admin:admin:112.219.232.53
+DUP support:support:89.96.94.108
+DUP mapp:test:89.96.94.108
+DUP map:test:89.96.94.108
+DUP logger:test:89.96.94.108
+DUP sk:test:89.96.94.108
+DUP git:test:89.96.94.108
+DUP test:test:89.96.94.108
+DUP guest:guest:89.96.94.108
+DUP admin:password:89.96.94.108
+DUP ubnt:ubnt:89.96.94.108
+DUP user:user:89.96.94.108
+DUP admin:1234:89.96.94.108
+DUP admin:admin:89.96.94.108
+root:root:89.96.94.108
+DUP support:support:88.35.41.221
+DUP mapp:test:88.35.41.221
+DUP map:test:88.35.41.221
+DUP logger:test:88.35.41.221
+DUP sk:test:88.35.41.221
+DUP git:test:88.35.41.221
+DUP test:test:88.35.41.221
+DUP guest:guest:88.35.41.221
+DUP admin:password:88.35.41.221
+DUP ubnt:ubnt:88.35.41.221
+DUP user:user:88.35.41.221
+DUP admin:1234:88.35.41.221
+admin:admin:88.35.41.221
+DUP support:support:213.149.211.0
+DUP mapp:test:213.149.211.0
+DUP map:test:213.149.211.0
+DUP logger:test:213.149.211.0
+DUP sk:test:213.149.211.0
+DUP git:test:213.149.211.0
+DUP test:test:213.149.211.0
+DUP guest:guest:213.149.211.0
+DUP admin:password:213.149.211.0
+DUP ubnt:ubnt:213.149.211.0
+DUP user:user:213.149.211.0
+DUP admin:1234:213.149.211.0
+DUP admin:admin:213.149.211.0
+root:root:213.149.211.0
+admin:admin:49.79.137.151
+admin:admin:106.51.36.22
+admin:admin:65.97.221.65
+DUP support:support:169.54.149.83
+DUP mapp:test:169.54.149.83
+DUP map:test:169.54.149.83
+DUP logger:test:169.54.149.83
+DUP sk:test:169.54.149.83
+DUP git:test:169.54.149.83
+DUP test:test:169.54.149.83
+DUP guest:guest:169.54.149.83
+DUP admin:password:169.54.149.83
+DUP ubnt:ubnt:169.54.149.83
+DUP user:user:169.54.149.83
+DUP admin:1234:169.54.149.83
+DUP admin:admin:169.54.149.83
+root:root:169.54.149.83
+DUP support:support:93.61.143.220
+DUP mapp:test:93.61.143.220
+DUP map:test:93.61.143.220
+DUP logger:test:93.61.143.220
+DUP sk:test:93.61.143.220
+DUP git:test:93.61.143.220
+DUP test:test:93.61.143.220
+DUP guest:guest:93.61.143.220
+DUP admin:password:93.61.143.220
+DUP ubnt:ubnt:93.61.143.220
+DUP user:user:93.61.143.220
+DUP admin:1234:93.61.143.220
+DUP admin:admin:93.61.143.220
+root:root:93.61.143.220
+DUP support:support:83.251.153.157
+DUP mapp:test:83.251.153.157
+DUP map:test:83.251.153.157
+DUP logger:test:83.251.153.157
+DUP sk:test:83.251.153.157
+DUP git:test:83.251.153.157
+DUP test:test:83.251.153.157
+DUP guest:guest:83.251.153.157
+DUP admin:password:83.251.153.157
+DUP ubnt:ubnt:83.251.153.157
+DUP user:user:83.251.153.157
+DUP admin:1234:83.251.153.157
+DUP admin:admin:83.251.153.157
+root:root:83.251.153.157
+admin:admin:61.163.25.162
+admin:admin:118.91.180.46
+DUP support:support:93.54.65.205
+DUP mapp:test:93.54.65.205
+DUP map:test:93.54.65.205
+DUP logger:test:93.54.65.205
+DUP sk:test:93.54.65.205
+DUP git:test:93.54.65.205
+DUP test:test:93.54.65.205
+DUP guest:guest:93.54.65.205
+DUP admin:password:93.54.65.205
+DUP ubnt:ubnt:93.54.65.205
+DUP user:user:93.54.65.205
+DUP admin:1234:93.54.65.205
+DUP admin:admin:93.54.65.205
+root:root:93.54.65.205
+admin:admin:222.72.251.190
+DUP support:support:93.54.105.31
+DUP mapp:test:93.54.105.31
+DUP map:test:93.54.105.31
+DUP logger:test:93.54.105.31
+DUP sk:test:93.54.105.31
+DUP git:test:93.54.105.31
+DUP test:test:93.54.105.31
+DUP guest:guest:93.54.105.31
+DUP admin:password:93.54.105.31
+DUP ubnt:ubnt:93.54.105.31
+DUP user:user:93.54.105.31
+DUP admin:1234:93.54.105.31
+DUP admin:admin:93.54.105.31
+root:root:93.54.105.31
+admin:password:75.86.83.140
+admin:admin:173.191.236.31
+admin:admin:103.110.59.74
+admin:admin:103.66.78.197
+admin:admin:118.208.235.138
+admin:password:210.170.25.158
+admin:admin:143.59.181.143
+admin:admin:117.185.43.198
+admin:admin:221.131.121.6
+root:root:46.175.37.49
+test:test:183.66.64.40
+admin:admin:46.255.170.226
+DUP support:support:212.131.72.85
+DUP mapp:test:212.131.72.85
+DUP map:test:212.131.72.85
+DUP logger:test:212.131.72.85
+DUP sk:test:212.131.72.85
+DUP git:test:212.131.72.85
+DUP test:test:212.131.72.85
+DUP guest:guest:212.131.72.85
+DUP admin:password:212.131.72.85
+DUP ubnt:ubnt:212.131.72.85
+DUP user:user:212.131.72.85
+DUP admin:1234:212.131.72.85
+admin:admin:212.131.72.85
+admin:admin:220.171.11.226
+DUP support:support:31.171.1.156
+DUP mapp:test:31.171.1.156
+DUP map:test:31.171.1.156
+DUP logger:test:31.171.1.156
+DUP sk:test:31.171.1.156
+DUP git:test:31.171.1.156
+DUP test:test:31.171.1.156
+DUP guest:guest:31.171.1.156
+DUP admin:password:31.171.1.156
+DUP ubnt:ubnt:31.171.1.156
+DUP user:user:31.171.1.156
+DUP admin:1234:31.171.1.156
+DUP admin:admin:31.171.1.156
+root:root:31.171.1.156
+admin:admin:218.205.27.234
+admin:admin:111.53.88.50
+DUP support:support:62.94.216.112
+DUP mapp:test:62.94.216.112
+DUP map:test:62.94.216.112
+DUP logger:test:62.94.216.112
+DUP sk:test:62.94.216.112
+DUP git:test:62.94.216.112
+DUP test:test:62.94.216.112
+DUP guest:guest:62.94.216.112
+DUP admin:password:62.94.216.112
+DUP ubnt:ubnt:62.94.216.112
+DUP user:user:62.94.216.112
+DUP admin:1234:62.94.216.112
+DUP admin:admin:62.94.216.112
+root:root:62.94.216.112
+ubnt:ubnt:103.104.235.237
+DUP support:support:78.4.139.130
+DUP mapp:test:78.4.139.130
+DUP map:test:78.4.139.130
+DUP logger:test:78.4.139.130
+DUP sk:test:78.4.139.130
+DUP git:test:78.4.139.130
+DUP test:test:78.4.139.130
+DUP guest:guest:78.4.139.130
+DUP admin:password:78.4.139.130
+DUP ubnt:ubnt:78.4.139.130
+DUP user:user:78.4.139.130
+DUP admin:1234:78.4.139.130
+DUP admin:admin:78.4.139.130
+root:root:78.4.139.130
+admin:1234:116.235.29.101
+guest:guest:42.200.118.48
+DUP support:support:2.236.211.224
+DUP mapp:test:2.236.211.224
+DUP map:test:2.236.211.224
+DUP logger:test:2.236.211.224
+DUP sk:test:2.236.211.224
+DUP git:test:2.236.211.224
+DUP test:test:2.236.211.224
+DUP guest:guest:2.236.211.224
+DUP admin:password:2.236.211.224
+DUP ubnt:ubnt:2.236.211.224
+DUP user:user:2.236.211.224
+DUP admin:1234:2.236.211.224
+DUP admin:admin:2.236.211.224
+root:root:2.236.211.224
+DUP support:support:78.7.151.74
+DUP mapp:test:78.7.151.74
+DUP map:test:78.7.151.74
+DUP logger:test:78.7.151.74
+DUP sk:test:78.7.151.74
+DUP git:test:78.7.151.74
+DUP test:test:78.7.151.74
+DUP guest:guest:78.7.151.74
+DUP admin:password:78.7.151.74
+DUP ubnt:ubnt:78.7.151.74
+DUP user:user:78.7.151.74
+DUP admin:1234:78.7.151.74
+DUP admin:admin:78.7.151.74
+root:root:78.7.151.74
+admin:admin:60.3.110.194
+admin:admin:181.197.32.184
+admin:admin:42.243.110.90
+admin:admin:86.98.214.118
+admin:admin:129.146.76.41
+DUP support:support:93.49.212.175
+DUP mapp:test:93.49.212.175
+DUP map:test:93.49.212.175
+DUP logger:test:93.49.212.175
+DUP sk:test:93.49.212.175
+DUP git:test:93.49.212.175
+DUP test:test:93.49.212.175
+DUP guest:guest:93.49.212.175
+DUP admin:password:93.49.212.175
+DUP ubnt:ubnt:93.49.212.175
+DUP user:user:93.49.212.175
+DUP admin:1234:93.49.212.175
+DUP admin:admin:93.49.212.175
+root:root:93.49.212.175
+ubnt:ubnt:109.86.106.181
+DUP support:support:193.150.201.237
+DUP mapp:test:193.150.201.237
+DUP map:test:193.150.201.237
+DUP logger:test:193.150.201.237
+DUP sk:test:193.150.201.237
+DUP git:test:193.150.201.237
+DUP test:test:193.150.201.237
+DUP guest:guest:193.150.201.237
+DUP admin:password:193.150.201.237
+DUP ubnt:ubnt:193.150.201.237
+DUP user:user:193.150.201.237
+DUP admin:1234:193.150.201.237
+DUP admin:admin:193.150.201.237
+root:root:193.150.201.237
+DUP support:support:72.242.221.162
+DUP mapp:test:72.242.221.162
+DUP map:test:72.242.221.162
+DUP logger:test:72.242.221.162
+DUP sk:test:72.242.221.162
+DUP git:test:72.242.221.162
+DUP test:test:72.242.221.162
+DUP guest:guest:72.242.221.162
+DUP admin:password:72.242.221.162
+DUP ubnt:ubnt:72.242.221.162
+DUP user:user:72.242.221.162
+DUP admin:1234:72.242.221.162
+DUP admin:admin:72.242.221.162
+root:root:72.242.221.162
+admin:admin:5.165.224.46
+admin:admin:220.163.120.106
+DUP support:support:93.54.64.253
+DUP mapp:test:93.54.64.253
+DUP map:test:93.54.64.253
+DUP logger:test:93.54.64.253
+DUP sk:test:93.54.64.253
+DUP git:test:93.54.64.253
+DUP test:test:93.54.64.253
+DUP guest:guest:93.54.64.253
+DUP admin:password:93.54.64.253
+DUP ubnt:ubnt:93.54.64.253
+DUP user:user:93.54.64.253
+DUP admin:1234:93.54.64.253
+DUP admin:admin:93.54.64.253
+root:root:93.54.64.253
+DUP admin:password:117.54.110.82
+DUP admin:1234:117.54.110.82
+admin:admin:117.54.110.82
+admin:1234:173.198.51.106
+admin:admin:43.251.245.46
+DUP support:support:41.33.187.161
+DUP mapp:test:41.33.187.161
+DUP map:test:41.33.187.161
+DUP logger:test:41.33.187.161
+DUP sk:test:41.33.187.161
+DUP git:test:41.33.187.161
+DUP test:test:41.33.187.161
+DUP guest:guest:41.33.187.161
+DUP admin:password:41.33.187.161
+DUP ubnt:ubnt:41.33.187.161
+DUP user:user:41.33.187.161
+DUP admin:1234:41.33.187.161
+DUP admin:admin:41.33.187.161
+root:root:41.33.187.161
+user:user:46.41.1.126
+admin:admin:27.191.235.61
+DUP mapp:test:165.132.26.248
+DUP map:test:165.132.26.248
+DUP logger:test:165.132.26.248
+DUP sk:test:165.132.26.248
+DUP git:test:165.132.26.248
+test:test:165.132.26.248
+admin:admin:121.205.91.195
+DUP mapp:test:211.232.97.181
+DUP map:test:211.232.97.181
+DUP logger:test:211.232.97.181
+DUP sk:test:211.232.97.181
+DUP git:test:211.232.97.181
+test:test:211.232.97.181
+admin:admin:203.155.253.189
+DUP support:support:95.241.74.178
+DUP mapp:test:95.241.74.178
+DUP map:test:95.241.74.178
+DUP logger:test:95.241.74.178
+DUP sk:test:95.241.74.178
+DUP git:test:95.241.74.178
+DUP test:test:95.241.74.178
+DUP guest:guest:95.241.74.178
+DUP admin:password:95.241.74.178
+DUP ubnt:ubnt:95.241.74.178
+DUP user:user:95.241.74.178
+DUP admin:1234:95.241.74.178
+admin:admin:95.241.74.178
+admin:admin:112.133.219.212
+admin:admin:110.185.160.200
+admin:admin:221.226.88.186
+admin:admin:61.143.96.158
+DUP mapp:test:165.132.113.57
+DUP map:test:165.132.113.57
+DUP logger:test:165.132.113.57
+DUP sk:test:165.132.113.57
+DUP git:test:165.132.113.57
+test:test:165.132.113.57
+admin:admin:218.22.218.202
+admin:admin:140.113.125.155
+DUP support:support:79.62.20.176
+DUP mapp:test:79.62.20.176
+DUP map:test:79.62.20.176
+DUP logger:test:79.62.20.176
+DUP sk:test:79.62.20.176
+DUP git:test:79.62.20.176
+DUP test:test:79.62.20.176
+DUP guest:guest:79.62.20.176
+DUP admin:password:79.62.20.176
+DUP ubnt:ubnt:79.62.20.176
+DUP user:user:79.62.20.176
+DUP admin:1234:79.62.20.176
+admin:admin:79.62.20.176
+admin:admin:78.184.28.92
+admin:admin:177.43.243.211
+DUP support:support:95.225.128.155
+DUP mapp:test:95.225.128.155
+DUP map:test:95.225.128.155
+DUP logger:test:95.225.128.155
+DUP sk:test:95.225.128.155
+DUP git:test:95.225.128.155
+DUP test:test:95.225.128.155
+DUP guest:guest:95.225.128.155
+DUP admin:password:95.225.128.155
+DUP ubnt:ubnt:95.225.128.155
+DUP user:user:95.225.128.155
+DUP admin:1234:95.225.128.155
+admin:admin:95.225.128.155
+admin:admin:177.19.179.145
+admin:admin:82.81.212.148
+admin:admin:220.164.161.98
+admin:admin:182.74.4.42
+DUP support:support:83.233.201.194
+DUP mapp:test:83.233.201.194
+DUP map:test:83.233.201.194
+DUP logger:test:83.233.201.194
+DUP sk:test:83.233.201.194
+DUP git:test:83.233.201.194
+DUP test:test:83.233.201.194
+DUP guest:guest:83.233.201.194
+DUP admin:password:83.233.201.194
+DUP ubnt:ubnt:83.233.201.194
+DUP user:user:83.233.201.194
+DUP admin:1234:83.233.201.194
+DUP admin:admin:83.233.201.194
+root:root:83.233.201.194
+DUP support:support:37.123.150.31
+DUP mapp:test:37.123.150.31
+DUP map:test:37.123.150.31
+DUP logger:test:37.123.150.31
+DUP sk:test:37.123.150.31
+DUP git:test:37.123.150.31
+DUP test:test:37.123.150.31
+DUP guest:guest:37.123.150.31
+DUP admin:password:37.123.150.31
+DUP ubnt:ubnt:37.123.150.31
+DUP user:user:37.123.150.31
+DUP admin:1234:37.123.150.31
+DUP admin:admin:37.123.150.31
+root:root:37.123.150.31
+DUP support:support:85.42.94.12
+DUP mapp:test:85.42.94.12
+DUP map:test:85.42.94.12
+DUP logger:test:85.42.94.12
+DUP sk:test:85.42.94.12
+DUP git:test:85.42.94.12
+DUP test:test:85.42.94.12
+DUP guest:guest:85.42.94.12
+DUP admin:password:85.42.94.12
+DUP ubnt:ubnt:85.42.94.12
+DUP user:user:85.42.94.12
+DUP admin:1234:85.42.94.12
+admin:admin:85.42.94.12
+admin:admin:221.181.216.250
+DUP support:support:41.33.130.193
+DUP mapp:test:41.33.130.193
+DUP map:test:41.33.130.193
+DUP logger:test:41.33.130.193
+DUP sk:test:41.33.130.193
+DUP git:test:41.33.130.193
+DUP test:test:41.33.130.193
+DUP guest:guest:41.33.130.193
+DUP admin:password:41.33.130.193
+DUP ubnt:ubnt:41.33.130.193
+DUP user:user:41.33.130.193
+DUP admin:1234:41.33.130.193
+DUP admin:admin:41.33.130.193
+root:root:41.33.130.193
+admin:admin:223.86.16.181
+admin:admin:60.18.194.42
+admin:admin:14.139.241.69
+admin:admin:223.85.223.225
+admin:admin:123.232.38.106
+DUP support:support:217.58.212.65
+DUP mapp:test:217.58.212.65
+DUP map:test:217.58.212.65
+DUP logger:test:217.58.212.65
+DUP sk:test:217.58.212.65
+DUP git:test:217.58.212.65
+DUP test:test:217.58.212.65
+DUP guest:guest:217.58.212.65
+DUP admin:password:217.58.212.65
+DUP ubnt:ubnt:217.58.212.65
+DUP user:user:217.58.212.65
+DUP admin:1234:217.58.212.65
+admin:admin:217.58.212.65
+DUP support:support:95.254.10.200
+DUP mapp:test:95.254.10.200
+DUP map:test:95.254.10.200
+DUP logger:test:95.254.10.200
+DUP sk:test:95.254.10.200
+DUP git:test:95.254.10.200
+DUP test:test:95.254.10.200
+DUP guest:guest:95.254.10.200
+DUP admin:password:95.254.10.200
+DUP ubnt:ubnt:95.254.10.200
+DUP user:user:95.254.10.200
+DUP admin:1234:95.254.10.200
+admin:admin:95.254.10.200
+admin:1234:203.200.40.42
+DUP support:support:194.243.49.5
+DUP mapp:test:194.243.49.5
+DUP map:test:194.243.49.5
+DUP logger:test:194.243.49.5
+DUP sk:test:194.243.49.5
+DUP git:test:194.243.49.5
+DUP test:test:194.243.49.5
+DUP guest:guest:194.243.49.5
+DUP admin:password:194.243.49.5
+DUP ubnt:ubnt:194.243.49.5
+DUP user:user:194.243.49.5
+DUP admin:1234:194.243.49.5
+admin:admin:194.243.49.5
+admin:admin:58.214.237.66
+DUP support:support:95.243.50.189
+DUP mapp:test:95.243.50.189
+DUP map:test:95.243.50.189
+DUP logger:test:95.243.50.189
+DUP sk:test:95.243.50.189
+DUP git:test:95.243.50.189
+DUP test:test:95.243.50.189
+DUP guest:guest:95.243.50.189
+DUP admin:password:95.243.50.189
+DUP ubnt:ubnt:95.243.50.189
+DUP user:user:95.243.50.189
+DUP admin:1234:95.243.50.189
+admin:admin:95.243.50.189
+admin:1234:172.1.68.120
+DUP support:support:62.220.164.252
+DUP mapp:test:62.220.164.252
+DUP map:test:62.220.164.252
+DUP logger:test:62.220.164.252
+DUP sk:test:62.220.164.252
+DUP git:test:62.220.164.252
+DUP test:test:62.220.164.252
+DUP guest:guest:62.220.164.252
+DUP admin:password:62.220.164.252
+DUP ubnt:ubnt:62.220.164.252
+DUP user:user:62.220.164.252
+DUP admin:1234:62.220.164.252
+DUP admin:admin:62.220.164.252
+root:root:62.220.164.252
+DUP admin:password:117.252.70.4
+DUP admin:1234:117.252.70.4
+admin:admin:117.252.70.4
+admin:admin:58.18.107.117
+admin:admin:218.29.109.98
+admin:admin:111.43.225.15
+DUP support:support:89.96.101.142
+DUP mapp:test:89.96.101.142
+DUP map:test:89.96.101.142
+DUP logger:test:89.96.101.142
+DUP sk:test:89.96.101.142
+DUP git:test:89.96.101.142
+DUP test:test:89.96.101.142
+DUP guest:guest:89.96.101.142
+DUP admin:password:89.96.101.142
+DUP ubnt:ubnt:89.96.101.142
+DUP user:user:89.96.101.142
+DUP admin:1234:89.96.101.142
+DUP admin:admin:89.96.101.142
+root:root:89.96.101.142
+DUP support:support:85.112.178.98
+DUP mapp:test:85.112.178.98
+DUP map:test:85.112.178.98
+DUP logger:test:85.112.178.98
+DUP sk:test:85.112.178.98
+DUP git:test:85.112.178.98
+DUP test:test:85.112.178.98
+DUP guest:guest:85.112.178.98
+DUP admin:password:85.112.178.98
+DUP ubnt:ubnt:85.112.178.98
+DUP user:user:85.112.178.98
+DUP admin:1234:85.112.178.98
+DUP admin:admin:85.112.178.98
+root:root:85.112.178.98
+DUP support:support:41.33.0.137
+DUP mapp:test:41.33.0.137
+DUP map:test:41.33.0.137
+DUP logger:test:41.33.0.137
+DUP sk:test:41.33.0.137
+DUP git:test:41.33.0.137
+DUP test:test:41.33.0.137
+DUP guest:guest:41.33.0.137
+DUP admin:password:41.33.0.137
+DUP ubnt:ubnt:41.33.0.137
+DUP user:user:41.33.0.137
+DUP admin:1234:41.33.0.137
+DUP admin:admin:41.33.0.137
+root:root:41.33.0.137
+DUP support:support:93.61.78.58
+DUP mapp:test:93.61.78.58
+DUP map:test:93.61.78.58
+DUP logger:test:93.61.78.58
+DUP sk:test:93.61.78.58
+DUP git:test:93.61.78.58
+DUP test:test:93.61.78.58
+DUP guest:guest:93.61.78.58
+DUP admin:password:93.61.78.58
+DUP ubnt:ubnt:93.61.78.58
+DUP user:user:93.61.78.58
+DUP admin:1234:93.61.78.58
+DUP admin:admin:93.61.78.58
+root:root:93.61.78.58
+root:root:166.143.201.44
+DUP support:support:94.141.16.134
+DUP mapp:test:94.141.16.134
+DUP map:test:94.141.16.134
+DUP logger:test:94.141.16.134
+DUP sk:test:94.141.16.134
+DUP git:test:94.141.16.134
+DUP test:test:94.141.16.134
+DUP guest:guest:94.141.16.134
+DUP admin:password:94.141.16.134
+DUP ubnt:ubnt:94.141.16.134
+DUP user:user:94.141.16.134
+DUP admin:1234:94.141.16.134
+DUP admin:admin:94.141.16.134
+root:root:94.141.16.134
+admin:admin:83.110.5.121
+admin:admin:177.99.217.233
+root:root:182.75.117.122
+admin:1234:116.231.99.42
+DUP support:support:85.238.220.8
+DUP mapp:test:85.238.220.8
+DUP map:test:85.238.220.8
+DUP logger:test:85.238.220.8
+DUP sk:test:85.238.220.8
+DUP git:test:85.238.220.8
+DUP test:test:85.238.220.8
+DUP guest:guest:85.238.220.8
+DUP admin:password:85.238.220.8
+DUP ubnt:ubnt:85.238.220.8
+DUP user:user:85.238.220.8
+DUP admin:1234:85.238.220.8
+DUP admin:admin:85.238.220.8
+root:root:85.238.220.8
+DUP support:support:109.168.77.28
+DUP mapp:test:109.168.77.28
+DUP map:test:109.168.77.28
+DUP logger:test:109.168.77.28
+DUP sk:test:109.168.77.28
+DUP git:test:109.168.77.28
+DUP test:test:109.168.77.28
+DUP guest:guest:109.168.77.28
+DUP admin:password:109.168.77.28
+DUP ubnt:ubnt:109.168.77.28
+DUP user:user:109.168.77.28
+DUP admin:1234:109.168.77.28
+DUP admin:admin:109.168.77.28
+root:root:109.168.77.28
+admin:admin:86.98.47.229
+admin:admin:221.130.88.206
+admin:admin:117.158.1.245
+admin:password:153.168.250.204
+admin:password:118.121.41.17
+ubnt:ubnt:50.68.237.4
+DUP support:support:89.236.53.37
+DUP mapp:test:89.236.53.37
+DUP map:test:89.236.53.37
+DUP logger:test:89.236.53.37
+DUP sk:test:89.236.53.37
+DUP git:test:89.236.53.37
+DUP test:test:89.236.53.37
+DUP guest:guest:89.236.53.37
+DUP admin:password:89.236.53.37
+DUP ubnt:ubnt:89.236.53.37
+DUP user:user:89.236.53.37
+DUP admin:1234:89.236.53.37
+DUP admin:admin:89.236.53.37
+root:root:89.236.53.37
+admin:1234:75.137.85.158
+DUP support:support:213.149.210.44
+DUP mapp:test:213.149.210.44
+DUP map:test:213.149.210.44
+DUP logger:test:213.149.210.44
+DUP sk:test:213.149.210.44
+DUP git:test:213.149.210.44
+DUP test:test:213.149.210.44
+DUP guest:guest:213.149.210.44
+DUP admin:password:213.149.210.44
+DUP ubnt:ubnt:213.149.210.44
+DUP user:user:213.149.210.44
+DUP admin:1234:213.149.210.44
+DUP admin:admin:213.149.210.44
+root:root:213.149.210.44
+DUP support:support:31.27.44.157
+DUP mapp:test:31.27.44.157
+DUP map:test:31.27.44.157
+DUP logger:test:31.27.44.157
+DUP sk:test:31.27.44.157
+DUP git:test:31.27.44.157
+DUP test:test:31.27.44.157
+DUP guest:guest:31.27.44.157
+DUP admin:password:31.27.44.157
+DUP ubnt:ubnt:31.27.44.157
+DUP user:user:31.27.44.157
+DUP admin:1234:31.27.44.157
+DUP admin:admin:31.27.44.157
+root:root:31.27.44.157
+DUP support:support:193.150.202.36
+DUP mapp:test:193.150.202.36
+DUP map:test:193.150.202.36
+DUP logger:test:193.150.202.36
+DUP sk:test:193.150.202.36
+DUP git:test:193.150.202.36
+DUP test:test:193.150.202.36
+DUP guest:guest:193.150.202.36
+DUP admin:password:193.150.202.36
+DUP ubnt:ubnt:193.150.202.36
+DUP user:user:193.150.202.36
+DUP admin:1234:193.150.202.36
+DUP admin:admin:193.150.202.36
+root:root:193.150.202.36
+admin:admin:124.117.255.122
+admin:admin:58.143.208.10
+admin:admin:182.74.216.34
+DUP mapp:test:112.167.131.33
+DUP map:test:112.167.131.33
+DUP logger:test:112.167.131.33
+DUP sk:test:112.167.131.33
+DUP git:test:112.167.131.33
+test:test:112.167.131.33
+admin:admin:31.208.129.140
+DUP support:support:83.211.35.24
+DUP mapp:test:83.211.35.24
+DUP map:test:83.211.35.24
+DUP logger:test:83.211.35.24
+DUP sk:test:83.211.35.24
+DUP git:test:83.211.35.24
+DUP test:test:83.211.35.24
+DUP guest:guest:83.211.35.24
+DUP admin:password:83.211.35.24
+DUP ubnt:ubnt:83.211.35.24
+DUP user:user:83.211.35.24
+DUP admin:1234:83.211.35.24
+DUP admin:admin:83.211.35.24
+root:root:83.211.35.24
+admin:admin:203.206.171.233
+DUP support:support:188.14.214.206
+DUP mapp:test:188.14.214.206
+DUP map:test:188.14.214.206
+DUP logger:test:188.14.214.206
+DUP sk:test:188.14.214.206
+DUP git:test:188.14.214.206
+DUP test:test:188.14.214.206
+DUP guest:guest:188.14.214.206
+DUP admin:password:188.14.214.206
+DUP ubnt:ubnt:188.14.214.206
+DUP user:user:188.14.214.206
+DUP admin:1234:188.14.214.206
+admin:admin:188.14.214.206
+admin:admin:222.84.60.33
+DUP support:support:104.211.217.212
+DUP map:test:104.211.217.212
+DUP logger:test:104.211.217.212
+DUP sk:test:104.211.217.212
+DUP git:test:104.211.217.212
+DUP test:test:104.211.217.212
+DUP guest:guest:104.211.217.212
+DUP ubnt:ubnt:104.211.217.212
+DUP user:user:104.211.217.212
+DUP admin:1234:104.211.217.212
+admin:admin:104.211.217.212
+support:support:103.75.55.34
+admin:admin:195.207.5.75
+DUP support:support:89.212.93.202
+DUP mapp:test:89.212.93.202
+DUP map:test:89.212.93.202
+DUP logger:test:89.212.93.202
+DUP sk:test:89.212.93.202
+DUP git:test:89.212.93.202
+DUP test:test:89.212.93.202
+DUP guest:guest:89.212.93.202
+DUP admin:password:89.212.93.202
+DUP ubnt:ubnt:89.212.93.202
+DUP user:user:89.212.93.202
+DUP admin:1234:89.212.93.202
+DUP admin:admin:89.212.93.202
+root:root:89.212.93.202
+DUP support:support:188.9.128.217
+DUP mapp:test:188.9.128.217
+DUP map:test:188.9.128.217
+DUP logger:test:188.9.128.217
+DUP sk:test:188.9.128.217
+DUP git:test:188.9.128.217
+DUP test:test:188.9.128.217
+DUP guest:guest:188.9.128.217
+DUP admin:password:188.9.128.217
+DUP ubnt:ubnt:188.9.128.217
+DUP user:user:188.9.128.217
+DUP admin:1234:188.9.128.217
+admin:admin:188.9.128.217
+DUP support:support:146.247.248.47
+DUP mapp:test:146.247.248.47
+DUP map:test:146.247.248.47
+DUP logger:test:146.247.248.47
+DUP sk:test:146.247.248.47
+DUP git:test:146.247.248.47
+DUP test:test:146.247.248.47
+DUP guest:guest:146.247.248.47
+DUP admin:password:146.247.248.47
+DUP ubnt:ubnt:146.247.248.47
+DUP user:user:146.247.248.47
+DUP admin:1234:146.247.248.47
+DUP admin:admin:146.247.248.47
+root:root:146.247.248.47
+DUP support:support:93.51.236.249
+DUP mapp:test:93.51.236.249
+DUP map:test:93.51.236.249
+DUP logger:test:93.51.236.249
+DUP sk:test:93.51.236.249
+DUP git:test:93.51.236.249
+DUP test:test:93.51.236.249
+DUP guest:guest:93.51.236.249
+DUP admin:password:93.51.236.249
+DUP ubnt:ubnt:93.51.236.249
+DUP user:user:93.51.236.249
+DUP admin:1234:93.51.236.249
+DUP admin:admin:93.51.236.249
+root:root:93.51.236.249
+DUP support:support:85.115.3.61
+DUP mapp:test:85.115.3.61
+DUP map:test:85.115.3.61
+DUP logger:test:85.115.3.61
+DUP sk:test:85.115.3.61
+DUP git:test:85.115.3.61
+DUP test:test:85.115.3.61
+DUP guest:guest:85.115.3.61
+DUP admin:password:85.115.3.61
+DUP ubnt:ubnt:85.115.3.61
+DUP user:user:85.115.3.61
+DUP admin:1234:85.115.3.61
+DUP admin:admin:85.115.3.61
+root:root:85.115.3.61
+DUP support:support:62.85.252.214
+DUP mapp:test:62.85.252.214
+DUP map:test:62.85.252.214
+DUP logger:test:62.85.252.214
+DUP sk:test:62.85.252.214
+DUP git:test:62.85.252.214
+DUP test:test:62.85.252.214
+DUP guest:guest:62.85.252.214
+DUP admin:password:62.85.252.214
+DUP ubnt:ubnt:62.85.252.214
+DUP user:user:62.85.252.214
+DUP admin:1234:62.85.252.214
+DUP admin:admin:62.85.252.214
+root:root:62.85.252.214
+admin:admin:112.116.81.106
+admin:admin:179.191.51.63
+DUP support:support:188.9.195.42
+DUP mapp:test:188.9.195.42
+DUP map:test:188.9.195.42
+DUP logger:test:188.9.195.42
+DUP sk:test:188.9.195.42
+DUP git:test:188.9.195.42
+DUP test:test:188.9.195.42
+DUP guest:guest:188.9.195.42
+DUP admin:password:188.9.195.42
+DUP ubnt:ubnt:188.9.195.42
+DUP user:user:188.9.195.42
+DUP admin:1234:188.9.195.42
+admin:admin:188.9.195.42
+DUP support:support:85.38.110.25
+DUP mapp:test:85.38.110.25
+DUP map:test:85.38.110.25
+DUP logger:test:85.38.110.25
+DUP sk:test:85.38.110.25
+DUP git:test:85.38.110.25
+DUP test:test:85.38.110.25
+DUP guest:guest:85.38.110.25
+DUP admin:password:85.38.110.25
+DUP ubnt:ubnt:85.38.110.25
+DUP user:user:85.38.110.25
+DUP admin:1234:85.38.110.25
+admin:admin:85.38.110.25
+DUP support:support:93.63.0.22
+DUP mapp:test:93.63.0.22
+DUP map:test:93.63.0.22
+DUP logger:test:93.63.0.22
+DUP sk:test:93.63.0.22
+DUP git:test:93.63.0.22
+DUP test:test:93.63.0.22
+DUP guest:guest:93.63.0.22
+DUP admin:password:93.63.0.22
+DUP ubnt:ubnt:93.63.0.22
+DUP user:user:93.63.0.22
+DUP admin:1234:93.63.0.22
+DUP admin:admin:93.63.0.22
+root:root:93.63.0.22
+support:support:77.245.137.27
+DUP ubnt:ubnt:51.254.216.107
+admin:admin:51.254.216.107
+admin:password:217.216.132.218
+ubnt:ubnt:90.228.233.217
+DUP support:support:81.208.76.100
+DUP mapp:test:81.208.76.100
+DUP map:test:81.208.76.100
+DUP logger:test:81.208.76.100
+DUP sk:test:81.208.76.100
+DUP git:test:81.208.76.100
+DUP test:test:81.208.76.100
+DUP guest:guest:81.208.76.100
+DUP admin:password:81.208.76.100
+DUP ubnt:ubnt:81.208.76.100
+DUP user:user:81.208.76.100
+DUP admin:1234:81.208.76.100
+DUP admin:admin:81.208.76.100
+root:root:81.208.76.100
+admin:password:60.225.180.82
+admin:admin:123.194.233.184
+admin:admin:171.8.73.144
+DUP support:support:93.61.130.105
+DUP mapp:test:93.61.130.105
+DUP map:test:93.61.130.105
+DUP logger:test:93.61.130.105
+DUP sk:test:93.61.130.105
+DUP git:test:93.61.130.105
+DUP test:test:93.61.130.105
+DUP guest:guest:93.61.130.105
+DUP admin:password:93.61.130.105
+DUP ubnt:ubnt:93.61.130.105
+DUP user:user:93.61.130.105
+DUP admin:1234:93.61.130.105
+DUP admin:admin:93.61.130.105
+root:root:93.61.130.105

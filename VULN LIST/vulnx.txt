@@ -1,0 +1,655 @@
+admin:admin:212.175.108.34
+DUP test:test:37.114.132.66
+DUP guest:guest:37.114.132.66
+DUP admin:password:37.114.132.66
+DUP ubnt:ubnt:37.114.132.66
+DUP user:user:37.114.132.66
+DUP admin:1234:37.114.132.66
+DUP admin:admin:37.114.132.66
+root:root:37.114.132.66
+admin:admin:123.178.26.198
+admin:admin:191.19.105.248
+DUP test:test:217.139.12.209
+DUP guest:guest:217.139.12.209
+DUP admin:password:217.139.12.209
+DUP ubnt:ubnt:217.139.12.209
+DUP user:user:217.139.12.209
+DUP admin:1234:217.139.12.209
+DUP admin:admin:217.139.12.209
+root:root:217.139.12.209
+DUP test:test:78.4.20.130
+DUP guest:guest:78.4.20.130
+DUP admin:password:78.4.20.130
+DUP ubnt:ubnt:78.4.20.130
+DUP user:user:78.4.20.130
+DUP admin:1234:78.4.20.130
+DUP admin:admin:78.4.20.130
+root:root:78.4.20.130
+admin:admin:121.13.218.125
+DUP test:test:85.45.220.115
+DUP guest:guest:85.45.220.115
+DUP admin:password:85.45.220.115
+DUP ubnt:ubnt:85.45.220.115
+DUP user:user:85.45.220.115
+DUP admin:1234:85.45.220.115
+DUP admin:admin:85.45.220.115
+root:root:85.45.220.115
+admin:admin:119.161.98.205
+user:user:5.140.217.136
+DUP test:test:79.61.38.132
+DUP guest:guest:79.61.38.132
+DUP admin:password:79.61.38.132
+DUP ubnt:ubnt:79.61.38.132
+DUP user:user:79.61.38.132
+DUP admin:1234:79.61.38.132
+admin:admin:79.61.38.132
+admin:admin:188.18.158.71
+admin:admin:176.117.45.8
+admin:admin:125.99.77.198
+admin:admin:191.187.51.27
+user:user:1.174.149.96
+admin:admin:114.104.210.20
+admin:admin:188.39.204.55
+root:root:213.155.174.18
+user:user:114.40.136.19
+admin:admin:122.193.10.106
+admin:admin:202.71.31.53
+DUP admin:password:187.32.187.1
+DUP ubnt:ubnt:187.32.187.1
+DUP user:user:187.32.187.1
+DUP admin:1234:187.32.187.1
+admin:admin:187.32.187.1
+DUP test:test:37.114.170.251
+DUP guest:guest:37.114.170.251
+DUP admin:password:37.114.170.251
+DUP ubnt:ubnt:37.114.170.251
+DUP user:user:37.114.170.251
+DUP admin:1234:37.114.170.251
+DUP admin:admin:37.114.170.251
+root:root:37.114.170.251
+root:root:223.31.154.100
+DUP test:test:37.114.161.46
+DUP guest:guest:37.114.161.46
+DUP admin:password:37.114.161.46
+DUP ubnt:ubnt:37.114.161.46
+DUP user:user:37.114.161.46
+DUP admin:1234:37.114.161.46
+DUP admin:admin:37.114.161.46
+root:root:37.114.161.46
+DUP test:test:37.114.189.110
+DUP guest:guest:37.114.189.110
+DUP admin:password:37.114.189.110
+DUP ubnt:ubnt:37.114.189.110
+DUP user:user:37.114.189.110
+DUP admin:1234:37.114.189.110
+DUP admin:admin:37.114.189.110
+root:root:37.114.189.110
+admin:admin:36.159.1.54
+DUP admin:password:178.167.92.92
+DUP admin:1234:178.167.92.92
+admin:admin:178.167.92.92
+DUP test:test:37.114.133.161
+DUP guest:guest:37.114.133.161
+DUP admin:password:37.114.133.161
+DUP ubnt:ubnt:37.114.133.161
+DUP user:user:37.114.133.161
+DUP admin:1234:37.114.133.161
+DUP admin:admin:37.114.133.161
+root:root:37.114.133.161
+admin:admin:201.184.241.243
+root:root:41.35.83.55
+DUP test:test:78.4.37.130
+DUP guest:guest:78.4.37.130
+DUP admin:password:78.4.37.130
+DUP ubnt:ubnt:78.4.37.130
+DUP user:user:78.4.37.130
+DUP admin:1234:78.4.37.130
+DUP admin:admin:78.4.37.130
+root:root:78.4.37.130
+admin:1234:180.175.19.47
+root:root:87.110.140.196
+admin:admin:31.163.101.176
+DUP test:test:37.114.181.116
+DUP guest:guest:37.114.181.116
+DUP admin:password:37.114.181.116
+DUP ubnt:ubnt:37.114.181.116
+DUP user:user:37.114.181.116
+DUP admin:1234:37.114.181.116
+DUP admin:admin:37.114.181.116
+root:root:37.114.181.116
+admin:admin:180.112.56.49
+admin:admin:171.117.133.107
+admin:admin:168.121.46.202
+DUP test:test:5.89.34.143
+DUP guest:guest:5.89.34.143
+DUP admin:password:5.89.34.143
+DUP ubnt:ubnt:5.89.34.143
+DUP user:user:5.89.34.143
+DUP admin:1234:5.89.34.143
+DUP admin:admin:5.89.34.143
+root:root:5.89.34.143
+DUP test:test:37.114.148.145
+DUP guest:guest:37.114.148.145
+DUP admin:password:37.114.148.145
+DUP ubnt:ubnt:37.114.148.145
+DUP user:user:37.114.148.145
+DUP admin:1234:37.114.148.145
+DUP admin:admin:37.114.148.145
+root:root:37.114.148.145
+DUP test:test:37.114.183.166
+DUP guest:guest:37.114.183.166
+DUP admin:password:37.114.183.166
+DUP ubnt:ubnt:37.114.183.166
+DUP user:user:37.114.183.166
+DUP admin:1234:37.114.183.166
+DUP admin:admin:37.114.183.166
+root:root:37.114.183.166
+admin:admin:192.141.65.8
+admin:admin:113.193.31.186
+user:user:78.36.184.8
+DUP test:test:188.14.28.67
+DUP guest:guest:188.14.28.67
+DUP admin:password:188.14.28.67
+DUP ubnt:ubnt:188.14.28.67
+DUP user:user:188.14.28.67
+DUP admin:1234:188.14.28.67
+admin:admin:188.14.28.67
+DUP test:test:80.19.137.121
+DUP guest:guest:80.19.137.121
+DUP admin:password:80.19.137.121
+DUP ubnt:ubnt:80.19.137.121
+DUP user:user:80.19.137.121
+DUP admin:1234:80.19.137.121
+admin:admin:80.19.137.121
+admin:admin:187.189.23.197
+admin:admin:96.1.72.219
+DUP test:test:85.224.103.133
+DUP guest:guest:85.224.103.133
+DUP admin:password:85.224.103.133
+DUP ubnt:ubnt:85.224.103.133
+DUP user:user:85.224.103.133
+DUP admin:1234:85.224.103.133
+DUP admin:admin:85.224.103.133
+root:root:85.224.103.133
+DUP test:test:41.33.123.97
+DUP guest:guest:41.33.123.97
+DUP admin:password:41.33.123.97
+DUP ubnt:ubnt:41.33.123.97
+DUP user:user:41.33.123.97
+DUP admin:1234:41.33.123.97
+DUP admin:admin:41.33.123.97
+root:root:41.33.123.97
+DUP test:test:188.15.146.206
+DUP guest:guest:188.15.146.206
+DUP admin:password:188.15.146.206
+DUP ubnt:ubnt:188.15.146.206
+DUP user:user:188.15.146.206
+DUP admin:1234:188.15.146.206
+admin:admin:188.15.146.206
+DUP test:test:84.217.243.22
+DUP guest:guest:84.217.243.22
+DUP admin:password:84.217.243.22
+DUP ubnt:ubnt:84.217.243.22
+DUP user:user:84.217.243.22
+DUP admin:1234:84.217.243.22
+DUP admin:admin:84.217.243.22
+root:root:84.217.243.22
+admin:admin:115.221.232.82
+admin:admin:221.131.147.12
+admin:admin:218.76.62.98
+DUP test:test:37.114.132.131
+DUP guest:guest:37.114.132.131
+DUP admin:password:37.114.132.131
+DUP ubnt:ubnt:37.114.132.131
+DUP user:user:37.114.132.131
+DUP admin:1234:37.114.132.131
+DUP admin:admin:37.114.132.131
+root:root:37.114.132.131
+admin:admin:41.110.9.17
+admin:admin:37.76.246.106
+DUP test:test:41.33.194.58
+DUP guest:guest:41.33.194.58
+DUP admin:password:41.33.194.58
+DUP ubnt:ubnt:41.33.194.58
+DUP user:user:41.33.194.58
+DUP admin:1234:41.33.194.58
+DUP admin:admin:41.33.194.58
+root:root:41.33.194.58
+admin:admin:118.254.8.66
+admin:admin:106.241.143.12
+admin:admin:61.54.245.41
+user:user:36.229.138.187
+DUP test:test:78.5.66.126
+DUP guest:guest:78.5.66.126
+DUP admin:password:78.5.66.126
+DUP ubnt:ubnt:78.5.66.126
+DUP user:user:78.5.66.126
+DUP admin:1234:78.5.66.126
+DUP admin:admin:78.5.66.126
+root:root:78.5.66.126
+admin:password:118.121.41.23
+DUP test:test:93.61.100.205
+DUP guest:guest:93.61.100.205
+DUP admin:password:93.61.100.205
+DUP ubnt:ubnt:93.61.100.205
+DUP user:user:93.61.100.205
+DUP admin:1234:93.61.100.205
+DUP admin:admin:93.61.100.205
+root:root:93.61.100.205
+DUP admin:password:58.27.150.174
+DUP admin:1234:58.27.150.174
+admin:admin:58.27.150.174
+admin:admin:182.73.165.218
+admin:admin:223.68.2.133
+DUP test:test:93.61.71.53
+DUP guest:guest:93.61.71.53
+DUP admin:password:93.61.71.53
+DUP ubnt:ubnt:93.61.71.53
+DUP user:user:93.61.71.53
+DUP admin:1234:93.61.71.53
+DUP admin:admin:93.61.71.53
+root:root:93.61.71.53
+user:user:114.37.53.87
+admin:admin:73.107.28.11
+admin:1234:184.179.85.235
+DUP test:test:83.248.154.141
+DUP guest:guest:83.248.154.141
+DUP admin:password:83.248.154.141
+DUP ubnt:ubnt:83.248.154.141
+DUP user:user:83.248.154.141
+DUP admin:1234:83.248.154.141
+DUP admin:admin:83.248.154.141
+root:root:83.248.154.141
+DUP test:test:37.114.181.170
+DUP guest:guest:37.114.181.170
+DUP admin:password:37.114.181.170
+DUP ubnt:ubnt:37.114.181.170
+DUP user:user:37.114.181.170
+DUP admin:1234:37.114.181.170
+DUP admin:admin:37.114.181.170
+root:root:37.114.181.170
+admin:1234:107.185.35.243
+admin:admin:188.17.103.85
+admin:admin:111.93.207.2
+DUP test:test:213.149.204.6
+DUP guest:guest:213.149.204.6
+DUP admin:password:213.149.204.6
+DUP ubnt:ubnt:213.149.204.6
+DUP user:user:213.149.204.6
+DUP admin:1234:213.149.204.6
+DUP admin:admin:213.149.204.6
+root:root:213.149.204.6
+admin:password:113.172.240.34
+root:root:143.107.224.8
+DUP test:test:31.208.115.93
+DUP guest:guest:31.208.115.93
+DUP admin:password:31.208.115.93
+DUP ubnt:ubnt:31.208.115.93
+DUP user:user:31.208.115.93
+DUP admin:1234:31.208.115.93
+DUP admin:admin:31.208.115.93
+root:root:31.208.115.93
+DUP test:test:93.103.213.245
+DUP guest:guest:93.103.213.245
+DUP admin:password:93.103.213.245
+DUP ubnt:ubnt:93.103.213.245
+DUP user:user:93.103.213.245
+DUP admin:1234:93.103.213.245
+DUP admin:admin:93.103.213.245
+root:root:93.103.213.245
+ubnt:ubnt:64.130.156.237
+DUP test:test:88.52.151.143
+DUP guest:guest:88.52.151.143
+DUP admin:password:88.52.151.143
+DUP ubnt:ubnt:88.52.151.143
+DUP user:user:88.52.151.143
+DUP admin:1234:88.52.151.143
+DUP admin:admin:88.52.151.143
+root:root:88.52.151.143
+root:root:212.142.159.192
+DUP test:test:93.62.107.218
+DUP guest:guest:93.62.107.218
+DUP admin:password:93.62.107.218
+DUP ubnt:ubnt:93.62.107.218
+DUP user:user:93.62.107.218
+DUP admin:1234:93.62.107.218
+DUP admin:admin:93.62.107.218
+root:root:93.62.107.218
+user:user:1.169.146.123
+admin:admin:221.226.135.162
+admin:admin:125.65.244.114
+admin:admin:202.65.136.122
+ubnt:ubnt:41.79.119.139
+admin:admin:140.75.152.14
+admin:admin:123.157.244.182
+admin:admin:65.97.236.17
+DUP test:test:79.20.20.94
+DUP guest:guest:79.20.20.94
+DUP admin:password:79.20.20.94
+DUP ubnt:ubnt:79.20.20.94
+DUP user:user:79.20.20.94
+DUP admin:1234:79.20.20.94
+admin:admin:79.20.20.94
+admin:admin:190.146.112.124
+DUP test:test:178.162.194.9
+DUP guest:guest:178.162.194.9
+DUP admin:password:178.162.194.9
+DUP user:user:178.162.194.9
+DUP admin:1234:178.162.194.9
+DUP admin:admin:178.162.194.9
+root:root:178.162.194.9
+admin:admin:120.199.126.136
+ubnt:ubnt:185.181.49.47
+admin:admin:49.156.156.45
+admin:admin:60.2.65.42
+DUP test:test:62.94.208.160
+DUP guest:guest:62.94.208.160
+DUP admin:password:62.94.208.160
+DUP ubnt:ubnt:62.94.208.160
+DUP user:user:62.94.208.160
+DUP admin:1234:62.94.208.160
+DUP admin:admin:62.94.208.160
+root:root:62.94.208.160
+DUP test:test:95.240.160.135
+DUP guest:guest:95.240.160.135
+DUP admin:password:95.240.160.135
+DUP ubnt:ubnt:95.240.160.135
+DUP user:user:95.240.160.135
+DUP admin:1234:95.240.160.135
+admin:admin:95.240.160.135
+DUP test:test:82.185.46.33
+DUP guest:guest:82.185.46.33
+DUP admin:password:82.185.46.33
+DUP ubnt:ubnt:82.185.46.33
+DUP user:user:82.185.46.33
+DUP admin:1234:82.185.46.33
+admin:admin:82.185.46.33
+admin:admin:153.0.163.36
+admin:admin:220.189.206.110
+DUP test:test:81.208.26.121
+DUP guest:guest:81.208.26.121
+DUP admin:password:81.208.26.121
+DUP ubnt:ubnt:81.208.26.121
+DUP user:user:81.208.26.121
+DUP admin:1234:81.208.26.121
+DUP admin:admin:81.208.26.121
+root:root:81.208.26.121
+admin:admin:182.127.253.54
+admin:admin:112.230.213.92
+ubnt:ubnt:208.82.43.117
+DUP test:test:93.46.222.67
+DUP guest:guest:93.46.222.67
+DUP admin:password:93.46.222.67
+DUP ubnt:ubnt:93.46.222.67
+DUP user:user:93.46.222.67
+DUP admin:1234:93.46.222.67
+DUP admin:admin:93.46.222.67
+root:root:93.46.222.67
+DUP test:test:213.80.27.231
+DUP guest:guest:213.80.27.231
+DUP admin:password:213.80.27.231
+DUP ubnt:ubnt:213.80.27.231
+DUP user:user:213.80.27.231
+DUP admin:1234:213.80.27.231
+DUP admin:admin:213.80.27.231
+root:root:213.80.27.231
+DUP test:test:213.198.166.21
+DUP guest:guest:213.198.166.21
+DUP admin:password:213.198.166.21
+DUP ubnt:ubnt:213.198.166.21
+DUP user:user:213.198.166.21
+DUP admin:1234:213.198.166.21
+DUP admin:admin:213.198.166.21
+root:root:213.198.166.21
+admin:admin:123.52.42.31
+DUP test:test:88.35.38.117
+DUP guest:guest:88.35.38.117
+DUP admin:password:88.35.38.117
+DUP ubnt:ubnt:88.35.38.117
+DUP user:user:88.35.38.117
+DUP admin:1234:88.35.38.117
+admin:admin:88.35.38.117
+DUP test:test:186.227.188.230
+DUP guest:guest:186.227.188.230
+DUP admin:password:186.227.188.230
+DUP ubnt:ubnt:186.227.188.230
+DUP user:user:186.227.188.230
+DUP admin:1234:186.227.188.230
+DUP admin:admin:186.227.188.230
+root:root:186.227.188.230
+DUP test:test:213.100.206.89
+DUP guest:guest:213.100.206.89
+DUP admin:password:213.100.206.89
+DUP ubnt:ubnt:213.100.206.89
+DUP user:user:213.100.206.89
+DUP admin:1234:213.100.206.89
+DUP admin:admin:213.100.206.89
+root:root:213.100.206.89
+admin:admin:117.191.93.154
+admin:admin:124.30.94.98
+user:user:114.25.189.178
+admin:admin:121.132.100.38
+DUP user:user:109.228.224.55
+admin:1234:109.228.224.55
+DUP test:test:93.46.165.233
+DUP guest:guest:93.46.165.233
+DUP admin:password:93.46.165.233
+DUP ubnt:ubnt:93.46.165.233
+DUP user:user:93.46.165.233
+DUP admin:1234:93.46.165.233
+DUP admin:admin:93.46.165.233
+root:root:93.46.165.233
+DUP admin:password:202.157.95.115
+DUP admin:1234:202.157.95.115
+admin:admin:202.157.95.115
+DUP test:test:41.33.139.221
+DUP guest:guest:41.33.139.221
+DUP admin:password:41.33.139.221
+DUP ubnt:ubnt:41.33.139.221
+DUP user:user:41.33.139.221
+DUP admin:1234:41.33.139.221
+DUP admin:admin:41.33.139.221
+root:root:41.33.139.221
+ubnt:ubnt:62.210.151.242
+admin:admin:112.16.81.234
+admin:password:131.129.17.222
+admin:admin:59.49.105.182
+DUP test:test:83.251.158.109
+DUP guest:guest:83.251.158.109
+DUP admin:password:83.251.158.109
+DUP ubnt:ubnt:83.251.158.109
+DUP user:user:83.251.158.109
+DUP admin:1234:83.251.158.109
+DUP admin:admin:83.251.158.109
+root:root:83.251.158.109
+admin:admin:61.150.88.22
+ubnt:ubnt:194.146.250.216
+admin:admin:89.237.144.254
+admin:admin:212.175.131.38
+admin:1234:114.95.107.187
+DUP test:test:41.33.104.209
+DUP guest:guest:41.33.104.209
+DUP admin:password:41.33.104.209
+DUP ubnt:ubnt:41.33.104.209
+DUP user:user:41.33.104.209
+DUP admin:1234:41.33.104.209
+DUP admin:admin:41.33.104.209
+root:root:41.33.104.209
+ubnt:ubnt:66.96.215.244
+admin:admin:213.57.30.99
+admin:admin:59.49.20.234
+admin:1234:94.198.134.23
+user:user:36.225.153.199
+DUP admin:password:43.252.158.87
+DUP admin:1234:43.252.158.87
+admin:admin:43.252.158.87
+DUP admin:1234:195.158.84.31
+DUP admin:admin:195.158.84.31
+root:root:195.158.84.31
+DUP test:test:83.227.107.238
+DUP guest:guest:83.227.107.238
+DUP admin:password:83.227.107.238
+DUP ubnt:ubnt:83.227.107.238
+DUP user:user:83.227.107.238
+DUP admin:1234:83.227.107.238
+DUP admin:admin:83.227.107.238
+root:root:83.227.107.238
+admin:admin:39.129.83.10
+DUP test:test:62.94.88.18
+DUP guest:guest:62.94.88.18
+DUP admin:password:62.94.88.18
+DUP ubnt:ubnt:62.94.88.18
+DUP user:user:62.94.88.18
+DUP admin:1234:62.94.88.18
+DUP admin:admin:62.94.88.18
+root:root:62.94.88.18
+DUP test:test:93.54.83.117
+DUP guest:guest:93.54.83.117
+DUP admin:password:93.54.83.117
+DUP ubnt:ubnt:93.54.83.117
+DUP user:user:93.54.83.117
+DUP admin:1234:93.54.83.117
+DUP admin:admin:93.54.83.117
+root:root:93.54.83.117
+DUP admin:password:115.213.61.198
+DUP admin:1234:115.213.61.198
+admin:admin:115.213.61.198
+user:user:37.239.230.76
+DUP test:test:93.54.75.75
+DUP guest:guest:93.54.75.75
+DUP admin:password:93.54.75.75
+DUP ubnt:ubnt:93.54.75.75
+DUP user:user:93.54.75.75
+DUP admin:1234:93.54.75.75
+DUP admin:admin:93.54.75.75
+root:root:93.54.75.75
+DUP test:test:176.104.96.15
+DUP guest:guest:176.104.96.15
+DUP admin:password:176.104.96.15
+DUP ubnt:ubnt:176.104.96.15
+DUP user:user:176.104.96.15
+DUP admin:1234:176.104.96.15
+DUP admin:admin:176.104.96.15
+root:root:176.104.96.15
+user:user:1.162.65.160
+admin:admin:189.95.197.194
+DUP test:test:196.219.25.57
+DUP guest:guest:196.219.25.57
+DUP admin:password:196.219.25.57
+DUP ubnt:ubnt:196.219.25.57
+DUP user:user:196.219.25.57
+DUP admin:1234:196.219.25.57
+DUP admin:admin:196.219.25.57
+root:root:196.219.25.57
+admin:admin:222.217.221.179
+admin:admin:115.56.162.222
+DUP test:test:78.6.16.134
+DUP guest:guest:78.6.16.134
+DUP admin:password:78.6.16.134
+DUP ubnt:ubnt:78.6.16.134
+DUP user:user:78.6.16.134
+DUP admin:1234:78.6.16.134
+DUP admin:admin:78.6.16.134
+root:root:78.6.16.134
+admin:admin:197.3.8.172
+DUP test:test:37.114.191.241
+DUP guest:guest:37.114.191.241
+DUP admin:password:37.114.191.241
+DUP ubnt:ubnt:37.114.191.241
+DUP user:user:37.114.191.241
+DUP admin:1234:37.114.191.241
+DUP admin:admin:37.114.191.241
+root:root:37.114.191.241
+DUP test:test:35.162.182.156
+DUP guest:guest:35.162.182.156
+DUP admin:password:35.162.182.156
+DUP ubnt:ubnt:35.162.182.156
+DUP user:user:35.162.182.156
+DUP admin:1234:35.162.182.156
+DUP admin:admin:35.162.182.156
+root:root:35.162.182.156
+admin:admin:27.17.2.126
+admin:admin:111.225.204.158
+admin:admin:190.219.170.80
+admin:admin:222.182.122.125
+admin:admin:201.47.200.105
+admin:admin:42.99.210.62
+admin:admin:49.68.52.183
+admin:admin:177.129.9.122
+DUP test:test:93.51.60.61
+DUP guest:guest:93.51.60.61
+DUP admin:password:93.51.60.61
+DUP ubnt:ubnt:93.51.60.61
+DUP user:user:93.51.60.61
+DUP admin:1234:93.51.60.61
+DUP admin:admin:93.51.60.61
+root:root:93.51.60.61
+root:root:124.234.139.129
+admin:admin:45.115.63.194
+ubnt:ubnt:87.245.167.179
+ubnt:ubnt:188.75.122.11
+admin:admin:166.149.172.20
+user:user:111.243.212.60
+user:user:1.168.150.3
+admin:1234:50.233.41.114
+user:user:219.84.184.136
+admin:admin:202.71.0.80
+admin:admin:179.243.162.76
+user:user:120.132.99.60
+DUP test:test:83.209.71.60
+DUP guest:guest:83.209.71.60
+DUP admin:password:83.209.71.60
+DUP ubnt:ubnt:83.209.71.60
+DUP user:user:83.209.71.60
+DUP admin:1234:83.209.71.60
+DUP admin:admin:83.209.71.60
+root:root:83.209.71.60
+DUP test:test:37.114.141.181
+DUP guest:guest:37.114.141.181
+DUP admin:password:37.114.141.181
+DUP ubnt:ubnt:37.114.141.181
+DUP user:user:37.114.141.181
+DUP admin:1234:37.114.141.181
+DUP admin:admin:37.114.141.181
+root:root:37.114.141.181
+admin:admin:178.153.163.253
+user:user:94.51.73.91
+admin:1234:203.69.234.247
+ubnt:ubnt:188.48.201.78
+DUP test:test:119.77.124.129
+DUP guest:guest:119.77.124.129
+DUP admin:password:119.77.124.129
+DUP ubnt:ubnt:119.77.124.129
+DUP user:user:119.77.124.129
+DUP admin:1234:119.77.124.129
+DUP admin:admin:119.77.124.129
+root:root:119.77.124.129
+admin:admin:112.16.168.26
+admin:admin:152.242.77.201
+admin:admin:149.210.28.123
+admin:admin:193.233.168.38
+user:user:59.115.51.167
+DUP test:test:83.253.191.120
+DUP guest:guest:83.253.191.120
+DUP admin:password:83.253.191.120
+DUP ubnt:ubnt:83.253.191.120
+DUP user:user:83.253.191.120
+DUP admin:1234:83.253.191.120
+DUP admin:admin:83.253.191.120
+root:root:83.253.191.120
+DUP test:test:31.27.49.92
+DUP guest:guest:31.27.49.92
+DUP admin:password:31.27.49.92
+DUP ubnt:ubnt:31.27.49.92
+DUP user:user:31.27.49.92
+DUP admin:1234:31.27.49.92
+DUP admin:admin:31.27.49.92
+root:root:31.27.49.92
+DUP test:test:213.100.206.41
+DUP guest:guest:213.100.206.41
+DUP admin:password:213.100.206.41
+DUP ubnt:ubnt:213.100.206.41
+DUP user:user:213.100.206.41
+DUP admin:1234:213.100.206.41
+DUP admin:admin:213.100.206.41
+root:root:213.100.206.41
